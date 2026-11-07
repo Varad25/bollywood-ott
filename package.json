@@ -1,0 +1,17 @@
+{
+  "description": "Stremio addon: new Indian movies & series on Netflix, Amazon Prime, Hulu and Zee5, from the daily Access Bollywood monitor (Hindi-first). Catalog only, no streams.",
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "main": "addon.js",
+  "name": "stremio-access-bollywood",
+  "scripts": {
+    "start": "node addon.js",
+    "test": "node -e \"const a=require('./addon'); console.log(a.manifest.catalogs.length + ' catalogs'); console.log('alerts movie:', a.catalogMetas('ab-alerts-movie','movie').length); console.log('alerts series:', a.catalogMetas('ab-alerts-series','series').length);\"",
+    "update": "node update-from-snapshot.js",
+    "build": "node update-from-snapshot.js && node export-static.js",
+    "export": "node export-static.js"
+  },
+  "version": "1.0.0"
+}
