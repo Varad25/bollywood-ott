@@ -177,10 +177,10 @@ function loadAlerts() {
 
 // ---------- catalogs ----------
 function buildCatalogs() {
-  // One catalog only (user request, 2026-11-06): the alerted titles.
-  // Stremio separates Movies and Series into different Discover tabs, so the
-  // single catalog is declared once per type under the same name — in each
-  // tab the user sees exactly one row.
+  // One catalog only (user request, 2026-11-06): alerted titles merged with
+  // all four platforms' Newly Added lists. Stremio separates Movies and
+  // Series into different Discover tabs, so the single catalog is declared
+  // once per type under the same name — one row in each tab.
   return [
     { type: "movie", id: "ab-new-movie", name: "Access Bollywood — New Titles" },
     { type: "series", id: "ab-new-series", name: "Access Bollywood — New Titles" },
@@ -189,7 +189,11 @@ function buildCatalogs() {
 
 function catalogMetas(catalogId, type, search) {
   let titles = [];
-  if (catalogId.startsWith("ab-alerts") || catalogId.startsWith("ab-new")) {
+  if (catalogId.startsWith("ab-new")) {
+    // The single catalog (user request, 2026-11-06): alerted titles first,
+    // then every platform's current Newly Added list, de-duped by meta id.
+    titles = allTitles().filter((t) => t.type === type);
+  } else if (catalogId.startsWith("ab-alerts")) {
     titles = loadAlerts().filter((t) => t.type === type);
   } else {
     const m = catalogId.match(/^ab-(netflix|prime|hulu|zee5)-(movie|series)$/);
@@ -237,7 +241,7 @@ function findMeta(type, id) {
 // ---------- manifest ----------
 const manifest = {
   id: "community.accessbollywood.newtitles",
-  version: "1.2.0",
+  version: "1.3.0",
   name: "Access Bollywood — New Titles",
   description:
     "New Indian movies & series added to Netflix, Amazon Prime, Hulu and Zee5, from the daily Access Bollywood monitor (Hindi-first). IMDb-matched, with posters.",
