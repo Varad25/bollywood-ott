@@ -176,6 +176,12 @@ function loadAlerts() {
 }
 
 // ---------- catalogs ----------
+// Titles the user asked to keep out of the catalog (2026-11-06):
+// all Chhota Bheem entries, incl. spin-offs. Applies to the advertised
+// catalogs only; the underlying data and chat alerts are untouched.
+const CATALOG_BLOCKLIST = [/^chhota bheem\b/i];
+const catalogBlocked = (t) => CATALOG_BLOCKLIST.some((re) => re.test(t.name));
+
 function buildCatalogs() {
   // One catalog only (user request, 2026-11-06): alerted titles merged with
   // all four platforms' Newly Added lists. Stremio separates Movies and
@@ -192,9 +198,9 @@ function catalogMetas(catalogId, type, search) {
   if (catalogId.startsWith("ab-new")) {
     // The single catalog (user request, 2026-11-06): alerted titles first,
     // then every platform's current Newly Added list, de-duped by meta id.
-    titles = allTitles().filter((t) => t.type === type);
+    titles = allTitles().filter((t) => t.type === type && !catalogBlocked(t));
   } else if (catalogId.startsWith("ab-alerts")) {
-    titles = loadAlerts().filter((t) => t.type === type);
+    titles = loadAlerts().filter((t) => t.type === type && !catalogBlocked(t));
   } else {
     const m = catalogId.match(/^ab-(netflix|prime|hulu|zee5)-(movie|series)$/);
     if (!m) return [];
@@ -259,7 +265,7 @@ function findMeta(type, id) {
 // ---------- manifest ----------
 const manifest = {
   id: "community.accessbollywood.newtitles",
-  version: "1.3.1",
+  version: "1.3.2",
   name: "Access Bollywood — New Titles",
   description:
     "New Indian movies & series added to Netflix, Amazon Prime, Hulu and Zee5, from the daily Access Bollywood monitor (Hindi-first). IMDb-matched, with posters.",
