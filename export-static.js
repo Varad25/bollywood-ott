@@ -44,16 +44,28 @@ fs.writeFileSync(
 
 let metaCount = 0;
 const seenMeta = new Set();
-for (const cat of manifest.catalogs) {
-  const { metas } = { metas: catalogMetas(cat.id, cat.type) };
-  writeJson(path.join("catalog", cat.type, `${cat.id}.json`), { metas });
-  for (const m of metas) {
-    const key = `${m.type}/${m.id}`;
-    if (seenMeta.has(key)) continue;
-    seenMeta.add(key);
-    writeJson(path.join("meta", m.type, `${m.id}.json`), { meta: m });
-    writeJson(path.join("stream", m.type, `${m.id}.json`), { streams: [] });
-    metaCount++;
-  }
+function writeMeta(m) {
+  const key = `${m.type}/${m.id}`;
+  if (seenMeta.has(key)) return;
+  seenMeta.add(key);
+  writeJson(path.join("meta", m.type, `${m.id}.json`), { meta: m });
+  writeJson(path.join("stream", m.type, `${m.id}.json`), { streams: [] });
+  metaCount++;
 }
+for (const cat of manifest.catalogs) {
+  const metas = catalogMetas(cat.id, cat.type);
+  writeJson(path.join("catalog", cat.type, `${cat.id}.json`), { metas });
+  metas.forEach(writeMeta);
+}
+// Also export meta/stream JSON for every other title the server knows
+// (per-platform lists), so detail pages resolve even though those
+// catalogs are no longer advertised in the manifest.
+const legacyCatalogs = [
+  ["ab-alerts-movie", "movie"], ["ab-alerts-series", "series"],
+  ["ab-netflix-movie", "movie"], ["ab-netflix-series", "series"],
+  ["ab-prime-movie", "movie"], ["ab-prime-series", "series"],
+  ["ab-hulu-movie", "movie"], ["ab-hulu-series", "series"],
+  ["ab-zee5-movie", "movie"],
+];
+for (const [id, type] of legacyCatalogs) catalogMetas(id, type).forEach(writeMeta);
 console.log(`Static export written to ${OUT}: ${manifest.catalogs.length} catalogs, ${metaCount} metas`);

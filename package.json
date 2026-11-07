@@ -13,5 +13,5 @@
     "build": "node update-from-snapshot.js && node export-static.js",
     "export": "node export-static.js"
   },
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
