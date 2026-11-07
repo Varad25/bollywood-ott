@@ -1,0 +1,2663 @@
+{
+ "movie|baththa|2026": {
+  "imdbId": "tt44090278",
+  "poster": "https://images.metahub.space/poster/small/tt44090278/img",
+  "background": "https://images.metahub.space/background/medium/tt44090278/img",
+  "imdbRating": "9.2",
+  "genres": [
+   "Action",
+   "Drama",
+   "Family"
+  ],
+  "runtime": "159 min",
+  "videos": []
+ },
+ "series|dhindora|2021": {
+  "imdbId": "tt14650074",
+  "poster": "https://images.metahub.space/poster/small/tt14650074/img",
+  "background": "https://images.metahub.space/background/medium/tt14650074/img",
+  "imdbRating": "8.8",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "18 min",
+  "videos": [
+   {
+    "id": "tt14650074:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt14650074:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt14650074:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt14650074:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt14650074:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt14650074:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt14650074:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt14650074:1:8",
+    "season": 1,
+    "episode": 8
+   }
+  ]
+ },
+ "series|akka|2026": {
+  "imdbId": "tt29625288",
+  "poster": "https://live.metahub.space/poster/small/tt29625288/img",
+  "background": "https://live.metahub.space/background/medium/tt29625288/img",
+  "imdbRating": null,
+  "genres": [
+   "Drama",
+   "Crime"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt29625288:1:1",
+    "season": 1,
+    "episode": 1
+   }
+  ]
+ },
+ "series|how to ruin diwali|2026": {
+  "imdbId": "tt45859537",
+  "poster": "https://live.metahub.space/poster/small/tt45859537/img",
+  "background": "https://live.metahub.space/background/medium/tt45859537/img",
+  "imdbRating": null,
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt45859537:1:1",
+    "season": 1,
+    "episode": 1
+   }
+  ]
+ },
+ "movie|meethe mein kya hai|2026": {
+  "imdbId": "tt39536070",
+  "poster": "https://live.metahub.space/poster/small/tt39536070/img",
+  "background": "https://live.metahub.space/background/medium/tt39536070/img",
+  "imdbRating": null,
+  "genres": [
+   "Family",
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "119 min",
+  "videos": []
+ },
+ "movie|mirzapur: the movie|2026": {
+  "imdbId": "tt34339725",
+  "poster": "https://images.metahub.space/poster/small/tt34339725/img",
+  "background": "https://images.metahub.space/background/medium/tt34339725/img",
+  "imdbRating": null,
+  "genres": [],
+  "runtime": "197 min",
+  "videos": []
+ },
+ "series|love always|2026": {
+  "imdbId": "tt47743462",
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTI5ZjgzMmQtMmMwNy00ODJlLTkwOWUtZjZkZDUzMDE0NzFiXkEyXkFqcGc@._V1_SX250.jpg",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt47743462:1:1",
+    "season": 1
+   }
+  ]
+ },
+ "movie|raanjhanaa|2013": {
+  "imdbId": "tt2359810",
+  "poster": "https://images.metahub.space/poster/small/tt2359810/img",
+  "background": "https://images.metahub.space/background/medium/tt2359810/img",
+  "imdbRating": "7.6",
+  "genres": [
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "140 min",
+  "videos": []
+ },
+ "movie|rockstar|2011": {
+  "imdbId": "tt1839596",
+  "poster": "https://images.metahub.space/poster/small/tt1839596/img",
+  "background": "https://images.metahub.space/background/medium/tt1839596/img",
+  "imdbRating": "7.8",
+  "genres": [
+   "Drama",
+   "Music",
+   "Romance"
+  ],
+  "runtime": "159 min",
+  "videos": []
+ },
+ "movie|dilwali diwali|2026": {
+  "imdbId": "tt50107649",
+  "poster": "https://live.metahub.space/poster/small/tt50107649/img",
+  "background": "https://live.metahub.space/background/medium/tt50107649/img",
+  "imdbRating": null,
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": null,
+  "videos": []
+ },
+ "movie|last man in tower|2026": {
+  "imdbId": "tt36267730",
+  "poster": "https://live.metahub.space/poster/small/tt36267730/img",
+  "background": "https://live.metahub.space/background/medium/tt36267730/img",
+  "imdbRating": "7.5",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": "97 min",
+  "videos": []
+ },
+ "movie|avarachan & sons|2026": {
+  "imdbId": "tt34792531",
+  "poster": "https://live.metahub.space/poster/small/tt34792531/img",
+  "background": "https://live.metahub.space/background/medium/tt34792531/img",
+  "imdbRating": "6.8",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": "150 min",
+  "videos": []
+ },
+ "movie|don't trouble the trouble|2026": {
+  "imdbId": "tt31841170",
+  "poster": "https://live.metahub.space/poster/small/tt31841170/img",
+  "background": "https://live.metahub.space/background/medium/tt31841170/img",
+  "imdbRating": "6.8",
+  "genres": [
+   "Fantasy",
+   "Drama",
+   "Action"
+  ],
+  "runtime": "156 min",
+  "videos": []
+ },
+ "movie|sigma|2026": {
+  "imdbId": "tt39239754",
+  "poster": "https://live.metahub.space/poster/small/tt39239754/img",
+  "background": "https://live.metahub.space/background/medium/tt39239754/img",
+  "imdbRating": "6.6",
+  "genres": [
+   "Action",
+   "Crime",
+   "Drama"
+  ],
+  "runtime": "145 min",
+  "videos": []
+ },
+ "movie|sub-inspector yugandhar|2026": {
+  "imdbId": null
+ },
+ "movie|gajab raat|2026": {
+  "imdbId": "tt39631280",
+  "poster": "https://images.metahub.space/poster/small/tt39631280/img",
+  "background": "https://images.metahub.space/background/medium/tt39631280/img",
+  "imdbRating": null,
+  "genres": [
+   "Thriller"
+  ],
+  "runtime": "124 min",
+  "videos": []
+ },
+ "movie|dhoomakethu|2026": {
+  "imdbId": "tt38990864",
+  "poster": "https://images.metahub.space/poster/small/tt38990864/img",
+  "background": "https://images.metahub.space/background/medium/tt38990864/img",
+  "imdbRating": null,
+  "genres": [],
+  "runtime": "122 min",
+  "videos": []
+ },
+ "movie|dorothy|2026": {
+  "imdbId": "tt38915678",
+  "poster": "https://images.metahub.space/poster/small/tt38915678/img",
+  "background": "https://images.metahub.space/background/medium/tt38915678/img",
+  "imdbRating": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "runtime": "146 min",
+  "videos": []
+ },
+ "movie|the paradise|2026": {
+  "imdbId": "tt31969655",
+  "poster": "https://images.metahub.space/poster/small/tt31969655/img",
+  "background": "https://images.metahub.space/background/medium/tt31969655/img",
+  "imdbRating": null,
+  "genres": [
+   "Action",
+   "Adventure",
+   "Drama"
+  ],
+  "runtime": "170 min",
+  "videos": []
+ },
+ "series|matargashti|2026": {
+  "imdbId": "tt49702110",
+  "poster": "https://live.metahub.space/poster/small/tt49702110/img",
+  "background": "https://live.metahub.space/background/medium/tt49702110/img",
+  "imdbRating": "7.5",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt49702110:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt49702110:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt49702110:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt49702110:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt49702110:1:5",
+    "season": 1,
+    "episode": 5
+   }
+  ]
+ },
+ "movie|baar baar dekho|2016": {
+  "imdbId": "tt5197544",
+  "poster": "https://images.metahub.space/poster/small/tt5197544/img",
+  "background": "https://images.metahub.space/background/medium/tt5197544/img",
+  "imdbRating": "5.4",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "141 min",
+  "videos": []
+ },
+ "movie|english vinglish|2012": {
+  "imdbId": "tt2181931",
+  "poster": "https://images.metahub.space/poster/small/tt2181931/img",
+  "background": "https://images.metahub.space/background/medium/tt2181931/img",
+  "imdbRating": "7.8",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Family"
+  ],
+  "runtime": "134 min",
+  "videos": []
+ },
+ "movie|gold|2018": {
+  "imdbId": "tt6173990",
+  "poster": "https://images.metahub.space/poster/small/tt6173990/img",
+  "background": "https://images.metahub.space/background/medium/tt6173990/img",
+  "imdbRating": "7.3",
+  "genres": [
+   "Drama",
+   "History",
+   "Sport"
+  ],
+  "runtime": "170 min",
+  "videos": []
+ },
+ "movie|gully boy|2019": {
+  "imdbId": "tt2395469",
+  "poster": "https://images.metahub.space/poster/small/tt2395469/img",
+  "background": "https://images.metahub.space/background/medium/tt2395469/img",
+  "imdbRating": "7.9",
+  "genres": [
+   "Drama",
+   "Music",
+   "Romance"
+  ],
+  "runtime": "156 min",
+  "videos": []
+ },
+ "movie|salaam-e-ishq|2006": {
+  "imdbId": "tt0485272",
+  "poster": "https://images.metahub.space/poster/small/tt0485272/img",
+  "background": "https://images.metahub.space/background/medium/tt0485272/img",
+  "imdbRating": "5.2",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Musical"
+  ],
+  "runtime": "216 min",
+  "videos": []
+ },
+ "series|sampurna|2023": {
+  "imdbId": "tt21332558",
+  "poster": "https://live.metahub.space/poster/small/tt21332558/img",
+  "background": "https://live.metahub.space/background/medium/tt21332558/img",
+  "imdbRating": "7.1",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt21332558:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt21332558:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt21332558:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt21332558:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt21332558:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt21332558:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt21332558:2:1",
+    "season": 2,
+    "episode": 1
+   },
+   {
+    "id": "tt21332558:2:2",
+    "season": 2,
+    "episode": 2
+   },
+   {
+    "id": "tt21332558:2:3",
+    "season": 2,
+    "episode": 3
+   },
+   {
+    "id": "tt21332558:2:4",
+    "season": 2,
+    "episode": 4
+   },
+   {
+    "id": "tt21332558:2:5",
+    "season": 2,
+    "episode": 5
+   },
+   {
+    "id": "tt21332558:2:6",
+    "season": 2,
+    "episode": 6
+   }
+  ]
+ },
+ "movie|enna vilai|2026": {
+  "imdbId": "tt33095205",
+  "poster": "https://live.metahub.space/poster/small/tt33095205/img",
+  "background": "https://live.metahub.space/background/medium/tt33095205/img",
+  "imdbRating": "7.1",
+  "genres": [
+   "Drama",
+   "Thriller"
+  ],
+  "runtime": "141 min",
+  "videos": []
+ },
+ "movie|sumukhi suresh: hoemonal|2026": {
+  "imdbId": "tt14179106",
+  "poster": "https://live.metahub.space/poster/small/tt14179106/img",
+  "background": "https://live.metahub.space/background/medium/tt14179106/img",
+  "imdbRating": "6.5",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": "73 min",
+  "videos": []
+ },
+ "movie|reporting live|2026": {
+  "imdbId": "tt47657999",
+  "poster": "https://live.metahub.space/poster/small/tt47657999/img",
+  "background": "https://live.metahub.space/background/medium/tt47657999/img",
+  "imdbRating": "5.8",
+  "genres": [
+   "Crime",
+   "Thriller"
+  ],
+  "runtime": "116 min",
+  "videos": []
+ },
+ "series|least eligible bachelor|2026": {
+  "imdbId": "tt48242205",
+  "poster": "https://live.metahub.space/poster/small/tt48242205/img",
+  "background": "https://live.metahub.space/background/medium/tt48242205/img",
+  "imdbRating": "6.4",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt48242205:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt48242205:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt48242205:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt48242205:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt48242205:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt48242205:1:6",
+    "season": 1,
+    "episode": 6
+   }
+  ]
+ },
+ "movie|pradhama drishtiya kuttakkar|2026": {
+  "imdbId": "tt38265603",
+  "poster": "https://images.metahub.space/poster/small/tt38265603/img",
+  "background": "https://images.metahub.space/background/medium/tt38265603/img",
+  "imdbRating": null,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Thriller"
+  ],
+  "runtime": "161 min",
+  "videos": []
+ },
+ "movie|epic|2026": {
+  "imdbId": null
+ },
+ "movie|mandaadi|2026": {
+  "imdbId": "tt36596965",
+  "poster": "https://images.metahub.space/poster/small/tt36596965/img",
+  "background": "https://images.metahub.space/background/medium/tt36596965/img",
+  "imdbRating": null,
+  "genres": [
+   "Action",
+   "Drama",
+   "Sport"
+  ],
+  "runtime": "153 min",
+  "videos": []
+ },
+ "movie|fukrey returns|2017": {
+  "imdbId": "tt6712014",
+  "poster": "https://images.metahub.space/poster/small/tt6712014/img",
+  "background": "https://images.metahub.space/background/medium/tt6712014/img",
+  "imdbRating": "6.5",
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": "135 min",
+  "videos": []
+ },
+ "movie|housefull|2010": {
+  "imdbId": "tt1573072",
+  "poster": "https://images.metahub.space/poster/small/tt1573072/img",
+  "background": "https://images.metahub.space/background/medium/tt1573072/img",
+  "imdbRating": "5.6",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "135 min",
+  "videos": []
+ },
+ "movie|housefull 3|2016": {
+  "imdbId": "tt4559046",
+  "poster": "https://images.metahub.space/poster/small/tt4559046/img",
+  "background": "https://images.metahub.space/background/medium/tt4559046/img",
+  "imdbRating": "4.9",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Romance"
+  ],
+  "runtime": "140 min",
+  "videos": []
+ },
+ "movie|tanu weds manu|2011": {
+  "imdbId": "tt1694542",
+  "poster": "https://images.metahub.space/poster/small/tt1694542/img",
+  "background": "https://images.metahub.space/background/medium/tt1694542/img",
+  "imdbRating": "6.8",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "119 min",
+  "videos": []
+ },
+ "movie|tanu weds manu returns|2015": {
+  "imdbId": "tt2140465",
+  "poster": "https://images.metahub.space/poster/small/tt2140465/img",
+  "background": "https://images.metahub.space/background/medium/tt2140465/img",
+  "imdbRating": "7.6",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "128 min",
+  "videos": []
+ },
+ "movie|comrade kalyan|2026": {
+  "imdbId": "tt32089596",
+  "poster": "https://live.metahub.space/poster/small/tt32089596/img",
+  "background": "https://live.metahub.space/background/medium/tt32089596/img",
+  "imdbRating": "8.0",
+  "genres": [
+   "Romance",
+   "Action",
+   "Drama"
+  ],
+  "runtime": "145 min",
+  "videos": []
+ },
+ "series|chaar yaar|2026": {
+  "imdbId": "tt40856820",
+  "poster": "https://live.metahub.space/poster/small/tt40856820/img",
+  "background": "https://live.metahub.space/background/medium/tt40856820/img",
+  "imdbRating": "7.2",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt40856820:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt40856820:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt40856820:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt40856820:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt40856820:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt40856820:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt40856820:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt40856820:1:8",
+    "season": 1,
+    "episode": 8
+   }
+  ]
+ },
+ "movie|lenin pandiyan|2026": {
+  "imdbId": "tt38916037",
+  "poster": "https://live.metahub.space/poster/small/tt38916037/img",
+  "background": "https://live.metahub.space/background/medium/tt38916037/img",
+  "imdbRating": "6.3",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Romance"
+  ],
+  "runtime": "131 min",
+  "videos": []
+ },
+ "movie|awarapan 2|2026": {
+  "imdbId": "tt36300841",
+  "poster": "https://images.metahub.space/poster/small/tt36300841/img",
+  "background": "https://images.metahub.space/background/medium/tt36300841/img",
+  "imdbRating": null,
+  "genres": [
+   "Action",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "142 min",
+  "videos": []
+ },
+ "movie|mahendragiri vaaraahi|2026": {
+  "imdbId": null
+ },
+ "series|dupahiya|2026": {
+  "imdbId": "tt31925820",
+  "poster": "https://live.metahub.space/poster/small/tt31925820/img",
+  "background": "https://live.metahub.space/background/medium/tt31925820/img",
+  "imdbRating": "7.4",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt31925820:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt31925820:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt31925820:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt31925820:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt31925820:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt31925820:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt31925820:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt31925820:1:8",
+    "season": 1,
+    "episode": 8
+   },
+   {
+    "id": "tt31925820:1:9",
+    "season": 1,
+    "episode": 9
+   },
+   {
+    "id": "tt31925820:2:1",
+    "season": 2,
+    "episode": 1
+   },
+   {
+    "id": "tt31925820:2:2",
+    "season": 2,
+    "episode": 2
+   },
+   {
+    "id": "tt31925820:2:3",
+    "season": 2,
+    "episode": 3
+   },
+   {
+    "id": "tt31925820:2:4",
+    "season": 2,
+    "episode": 4
+   },
+   {
+    "id": "tt31925820:2:5",
+    "season": 2,
+    "episode": 5
+   },
+   {
+    "id": "tt31925820:2:6",
+    "season": 2,
+    "episode": 6
+   },
+   {
+    "id": "tt31925820:2:7",
+    "season": 2,
+    "episode": 7
+   },
+   {
+    "id": "tt31925820:2:8",
+    "season": 2,
+    "episode": 8
+   }
+  ]
+ },
+ "movie|sardar 2|2026": {
+  "imdbId": "tt28541577",
+  "poster": "https://images.metahub.space/poster/small/tt28541577/img",
+  "background": "https://images.metahub.space/background/medium/tt28541577/img",
+  "imdbRating": null,
+  "genres": [],
+  "runtime": "179 min",
+  "videos": []
+ },
+ "movie|don't be shy|2026": {
+  "imdbId": "tt39528902",
+  "poster": "https://live.metahub.space/poster/small/tt39528902/img",
+  "background": "https://live.metahub.space/background/medium/tt39528902/img",
+  "imdbRating": "7.9",
+  "genres": [
+   "Romance",
+   "Comedy"
+  ],
+  "runtime": "149 min",
+  "videos": []
+ },
+ "movie|ramba oorvasi menaka|2026": {
+  "imdbId": "tt43134711",
+  "poster": "https://live.metahub.space/poster/small/tt43134711/img",
+  "background": "https://live.metahub.space/background/medium/tt43134711/img",
+  "imdbRating": "4.6",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "144 min",
+  "videos": []
+ },
+ "series|varam|2026": {
+  "imdbId": "tt39216437",
+  "poster": "https://live.metahub.space/poster/small/tt39216437/img",
+  "background": "https://live.metahub.space/background/medium/tt39216437/img",
+  "imdbRating": "3.7",
+  "genres": [
+   "Drama",
+   "Crime",
+   "Sci-Fi & Fantasy"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt39216437:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt39216437:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt39216437:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt39216437:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt39216437:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt39216437:1:6",
+    "season": 1,
+    "episode": 6
+   }
+  ]
+ },
+ "series|kappi squad|2026": {
+  "imdbId": "tt43596903",
+  "poster": "https://live.metahub.space/poster/small/tt43596903/img",
+  "background": "https://live.metahub.space/background/medium/tt43596903/img",
+  "imdbRating": "7.3",
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt43596903:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt43596903:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt43596903:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt43596903:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt43596903:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt43596903:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt43596903:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt43596903:1:8",
+    "season": 1,
+    "episode": 8
+   }
+  ]
+ },
+ "movie|bb bakshi|2026": {
+  "imdbId": null
+ },
+ "movie|raas|2025": {
+  "imdbId": null
+ },
+ "movie|sumo didi|2026": {
+  "imdbId": null
+ },
+ "movie|jeet ki zid|2026": {
+  "imdbId": null
+ },
+ "movie|keu bole biplobi keu bole dakat|2026": {
+  "imdbId": "tt37707854",
+  "poster": "https://live.metahub.space/poster/small/tt37707854/img",
+  "background": "https://live.metahub.space/background/medium/tt37707854/img",
+  "imdbRating": "7.6",
+  "genres": [
+   "Drama",
+   "History",
+   "Action"
+  ],
+  "runtime": "144 min",
+  "videos": []
+ },
+ "movie|pooja meri jaan|2026": {
+  "imdbId": "tt21378820",
+  "poster": "https://images.metahub.space/poster/small/tt21378820/img",
+  "background": "https://images.metahub.space/background/medium/tt21378820/img",
+  "imdbRating": "6.6",
+  "genres": [
+   "Drama",
+   "Mystery",
+   "Romance"
+  ],
+  "runtime": "118 min",
+  "videos": []
+ },
+ "movie|jan neta, aka \"jana nayagan\"|2026": {
+  "imdbId": null
+ },
+ "movie|ghamasaan|2026": {
+  "imdbId": null
+ },
+ "movie|awara samsara|2026": {
+  "imdbId": null
+ },
+ "movie|bandar|2026": {
+  "imdbId": null
+ },
+ "movie|manmarziyaan|2018": {
+  "imdbId": "tt5474036",
+  "poster": "https://images.metahub.space/poster/small/tt5474036/img",
+  "background": "https://images.metahub.space/background/medium/tt5474036/img",
+  "imdbRating": "6.8",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "155 min",
+  "videos": []
+ },
+ "series|chhota bheem|2026": {
+  "imdbId": "tt4570986",
+  "poster": "https://images.metahub.space/poster/small/tt4570986/img",
+  "background": "https://images.metahub.space/background/medium/tt4570986/img",
+  "imdbRating": "4.7",
+  "genres": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "runtime": "11 min",
+  "videos": [
+   {
+    "id": "tt4570986:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt4570986:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt4570986:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt4570986:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt4570986:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt4570986:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt4570986:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt4570986:1:8",
+    "season": 1,
+    "episode": 8
+   },
+   {
+    "id": "tt4570986:1:9",
+    "season": 1,
+    "episode": 9
+   },
+   {
+    "id": "tt4570986:1:10",
+    "season": 1,
+    "episode": 10
+   },
+   {
+    "id": "tt4570986:1:11",
+    "season": 1,
+    "episode": 11
+   },
+   {
+    "id": "tt4570986:1:12",
+    "season": 1,
+    "episode": 12
+   },
+   {
+    "id": "tt4570986:1:13",
+    "season": 1,
+    "episode": 13
+   },
+   {
+    "id": "tt4570986:1:14",
+    "season": 1,
+    "episode": 14
+   },
+   {
+    "id": "tt4570986:1:15",
+    "season": 1,
+    "episode": 15
+   },
+   {
+    "id": "tt4570986:1:16",
+    "season": 1,
+    "episode": 16
+   },
+   {
+    "id": "tt4570986:1:17",
+    "season": 1,
+    "episode": 17
+   },
+   {
+    "id": "tt4570986:1:18",
+    "season": 1,
+    "episode": 18
+   },
+   {
+    "id": "tt4570986:1:19",
+    "season": 1,
+    "episode": 19
+   },
+   {
+    "id": "tt4570986:1:20",
+    "season": 1,
+    "episode": 20
+   },
+   {
+    "id": "tt4570986:1:21",
+    "season": 1,
+    "episode": 21
+   },
+   {
+    "id": "tt4570986:1:22",
+    "season": 1,
+    "episode": 22
+   },
+   {
+    "id": "tt4570986:1:23",
+    "season": 1,
+    "episode": 23
+   },
+   {
+    "id": "tt4570986:1:24",
+    "season": 1,
+    "episode": 24
+   },
+   {
+    "id": "tt4570986:2:1",
+    "season": 2,
+    "episode": 1
+   },
+   {
+    "id": "tt4570986:2:2",
+    "season": 2,
+    "episode": 2
+   },
+   {
+    "id": "tt4570986:2:3",
+    "season": 2,
+    "episode": 3
+   },
+   {
+    "id": "tt4570986:2:4",
+    "season": 2,
+    "episode": 4
+   },
+   {
+    "id": "tt4570986:2:5",
+    "season": 2,
+    "episode": 5
+   },
+   {
+    "id": "tt4570986:2:6",
+    "season": 2,
+    "episode": 6
+   },
+   {
+    "id": "tt4570986:2:7",
+    "season": 2,
+    "episode": 7
+   },
+   {
+    "id": "tt4570986:2:8",
+    "season": 2,
+    "episode": 8
+   },
+   {
+    "id": "tt4570986:2:9",
+    "season": 2,
+    "episode": 9
+   },
+   {
+    "id": "tt4570986:2:10",
+    "season": 2,
+    "episode": 10
+   },
+   {
+    "id": "tt4570986:2:11",
+    "season": 2,
+    "episode": 11
+   },
+   {
+    "id": "tt4570986:2:12",
+    "season": 2,
+    "episode": 12
+   },
+   {
+    "id": "tt4570986:2:13",
+    "season": 2,
+    "episode": 13
+   },
+   {
+    "id": "tt4570986:2:14",
+    "season": 2,
+    "episode": 14
+   },
+   {
+    "id": "tt4570986:2:15",
+    "season": 2,
+    "episode": 15
+   },
+   {
+    "id": "tt4570986:2:16",
+    "season": 2,
+    "episode": 16
+   },
+   {
+    "id": "tt4570986:2:17",
+    "season": 2,
+    "episode": 17
+   },
+   {
+    "id": "tt4570986:2:18",
+    "season": 2,
+    "episode": 18
+   },
+   {
+    "id": "tt4570986:2:19",
+    "season": 2,
+    "episode": 19
+   },
+   {
+    "id": "tt4570986:2:20",
+    "season": 2,
+    "episode": 20
+   },
+   {
+    "id": "tt4570986:2:21",
+    "season": 2,
+    "episode": 21
+   },
+   {
+    "id": "tt4570986:2:22",
+    "season": 2,
+    "episode": 22
+   },
+   {
+    "id": "tt4570986:2:23",
+    "season": 2,
+    "episode": 23
+   },
+   {
+    "id": "tt4570986:2:24",
+    "season": 2,
+    "episode": 24
+   },
+   {
+    "id": "tt4570986:2:25",
+    "season": 2,
+    "episode": 25
+   },
+   {
+    "id": "tt4570986:3:1",
+    "season": 3,
+    "episode": 1
+   },
+   {
+    "id": "tt4570986:3:2",
+    "season": 3,
+    "episode": 2
+   },
+   {
+    "id": "tt4570986:3:3",
+    "season": 3,
+    "episode": 3
+   },
+   {
+    "id": "tt4570986:3:4",
+    "season": 3,
+    "episode": 4
+   },
+   {
+    "id": "tt4570986:3:5",
+    "season": 3,
+    "episode": 5
+   },
+   {
+    "id": "tt4570986:3:6",
+    "season": 3,
+    "episode": 6
+   },
+   {
+    "id": "tt4570986:3:7",
+    "season": 3,
+    "episode": 7
+   },
+   {
+    "id": "tt4570986:3:8",
+    "season": 3,
+    "episode": 8
+   },
+   {
+    "id": "tt4570986:3:9",
+    "season": 3,
+    "episode": 9
+   },
+   {
+    "id": "tt4570986:3:10",
+    "season": 3,
+    "episode": 10
+   },
+   {
+    "id": "tt4570986:3:11",
+    "season": 3,
+    "episode": 11
+   },
+   {
+    "id": "tt4570986:3:12",
+    "season": 3,
+    "episode": 12
+   },
+   {
+    "id": "tt4570986:3:13",
+    "season": 3,
+    "episode": 13
+   },
+   {
+    "id": "tt4570986:3:14",
+    "season": 3,
+    "episode": 14
+   },
+   {
+    "id": "tt4570986:3:15",
+    "season": 3,
+    "episode": 15
+   },
+   {
+    "id": "tt4570986:3:16",
+    "season": 3,
+    "episode": 16
+   },
+   {
+    "id": "tt4570986:3:17",
+    "season": 3,
+    "episode": 17
+   },
+   {
+    "id": "tt4570986:3:18",
+    "season": 3,
+    "episode": 18
+   },
+   {
+    "id": "tt4570986:3:19",
+    "season": 3,
+    "episode": 19
+   },
+   {
+    "id": "tt4570986:3:20",
+    "season": 3,
+    "episode": 20
+   },
+   {
+    "id": "tt4570986:3:21",
+    "season": 3,
+    "episode": 21
+   },
+   {
+    "id": "tt4570986:3:22",
+    "season": 3,
+    "episode": 22
+   },
+   {
+    "id": "tt4570986:3:23",
+    "season": 3,
+    "episode": 23
+   },
+   {
+    "id": "tt4570986:3:24",
+    "season": 3,
+    "episode": 24
+   },
+   {
+    "id": "tt4570986:3:25",
+    "season": 3,
+    "episode": 25
+   },
+   {
+    "id": "tt4570986:3:26",
+    "season": 3,
+    "episode": 26
+   },
+   {
+    "id": "tt4570986:3:27",
+    "season": 3,
+    "episode": 27
+   },
+   {
+    "id": "tt4570986:3:28",
+    "season": 3,
+    "episode": 28
+   },
+   {
+    "id": "tt4570986:3:29",
+    "season": 3,
+    "episode": 29
+   },
+   {
+    "id": "tt4570986:3:30",
+    "season": 3,
+    "episode": 30
+   },
+   {
+    "id": "tt4570986:3:31",
+    "season": 3,
+    "episode": 31
+   },
+   {
+    "id": "tt4570986:3:32",
+    "season": 3,
+    "episode": 32
+   }
+  ]
+ },
+ "series|chhota bheem: damyaan and co.|2026": {
+  "imdbId": null
+ },
+ "series|chhota bheem: dholakpur dhamaka|2026": {
+  "imdbId": null
+ },
+ "series|anjaan saaye|2026": {
+  "imdbId": null
+ },
+ "series|eken sirji jungle mein|2023": {
+  "imdbId": null
+ },
+ "series|eken sirji purulia mein|2026": {
+  "imdbId": null
+ },
+ "series|eken sirji samundar mein|2025": {
+  "imdbId": null
+ },
+ "series|lajja|2026": {
+  "imdbId": "tt5914206",
+  "poster": "https://images.metahub.space/poster/small/tt5914206/img",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": "22 min",
+  "videos": [
+   {
+    "id": "tt5914206:1:9",
+    "season": 1
+   }
+  ]
+ },
+ "series|madam inspector|2026": {
+  "imdbId": null
+ },
+ "series|roadies: rebirth|2026": {
+  "imdbId": null
+ },
+ "series|sunday brunch with kamiya jani|2026": {
+  "imdbId": null
+ },
+ "series|the legend of hanuman|2026": {
+  "imdbId": "tt13854248",
+  "poster": "https://images.metahub.space/poster/small/tt13854248/img",
+  "background": "https://images.metahub.space/background/medium/tt13854248/img",
+  "imdbRating": "9.1",
+  "genres": [
+   "Animation",
+   "Action",
+   "Adventure"
+  ],
+  "runtime": "21 min",
+  "videos": [
+   {
+    "id": "tt13854248:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt13854248:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt13854248:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt13854248:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt13854248:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt13854248:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt13854248:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt13854248:1:8",
+    "season": 1,
+    "episode": 8
+   },
+   {
+    "id": "tt13854248:1:9",
+    "season": 1,
+    "episode": 9
+   },
+   {
+    "id": "tt13854248:1:10",
+    "season": 1,
+    "episode": 10
+   },
+   {
+    "id": "tt13854248:1:11",
+    "season": 1,
+    "episode": 11
+   },
+   {
+    "id": "tt13854248:1:12",
+    "season": 1,
+    "episode": 12
+   },
+   {
+    "id": "tt13854248:1:13",
+    "season": 1,
+    "episode": 13
+   },
+   {
+    "id": "tt13854248:2:1",
+    "season": 2,
+    "episode": 1
+   },
+   {
+    "id": "tt13854248:2:2",
+    "season": 2,
+    "episode": 2
+   },
+   {
+    "id": "tt13854248:2:3",
+    "season": 2,
+    "episode": 3
+   },
+   {
+    "id": "tt13854248:2:4",
+    "season": 2,
+    "episode": 4
+   },
+   {
+    "id": "tt13854248:2:5",
+    "season": 2,
+    "episode": 5
+   },
+   {
+    "id": "tt13854248:2:6",
+    "season": 2,
+    "episode": 6
+   },
+   {
+    "id": "tt13854248:2:7",
+    "season": 2,
+    "episode": 7
+   },
+   {
+    "id": "tt13854248:2:8",
+    "season": 2,
+    "episode": 8
+   },
+   {
+    "id": "tt13854248:2:9",
+    "season": 2,
+    "episode": 9
+   },
+   {
+    "id": "tt13854248:2:10",
+    "season": 2,
+    "episode": 10
+   },
+   {
+    "id": "tt13854248:2:11",
+    "season": 2,
+    "episode": 11
+   },
+   {
+    "id": "tt13854248:2:12",
+    "season": 2,
+    "episode": 12
+   },
+   {
+    "id": "tt13854248:2:13",
+    "season": 2,
+    "episode": 13
+   },
+   {
+    "id": "tt13854248:3:1",
+    "season": 3,
+    "episode": 1
+   },
+   {
+    "id": "tt13854248:3:2",
+    "season": 3,
+    "episode": 2
+   },
+   {
+    "id": "tt13854248:3:3",
+    "season": 3,
+    "episode": 3
+   },
+   {
+    "id": "tt13854248:3:4",
+    "season": 3,
+    "episode": 4
+   },
+   {
+    "id": "tt13854248:3:5",
+    "season": 3,
+    "episode": 5
+   },
+   {
+    "id": "tt13854248:3:6",
+    "season": 3,
+    "episode": 6
+   },
+   {
+    "id": "tt13854248:4:1",
+    "season": 4,
+    "episode": 1
+   },
+   {
+    "id": "tt13854248:4:2",
+    "season": 4,
+    "episode": 2
+   },
+   {
+    "id": "tt13854248:4:3",
+    "season": 4,
+    "episode": 3
+   },
+   {
+    "id": "tt13854248:4:4",
+    "season": 4,
+    "episode": 4
+   },
+   {
+    "id": "tt13854248:4:5",
+    "season": 4,
+    "episode": 5
+   },
+   {
+    "id": "tt13854248:4:6",
+    "season": 4,
+    "episode": 6
+   },
+   {
+    "id": "tt13854248:4:7",
+    "season": 4,
+    "episode": 7
+   },
+   {
+    "id": "tt13854248:5:1",
+    "season": 5,
+    "episode": 1
+   },
+   {
+    "id": "tt13854248:5:2",
+    "season": 5,
+    "episode": 2
+   },
+   {
+    "id": "tt13854248:5:3",
+    "season": 5,
+    "episode": 3
+   },
+   {
+    "id": "tt13854248:5:4",
+    "season": 5,
+    "episode": 4
+   },
+   {
+    "id": "tt13854248:5:5",
+    "season": 5,
+    "episode": 5
+   },
+   {
+    "id": "tt13854248:5:6",
+    "season": 5,
+    "episode": 6
+   },
+   {
+    "id": "tt13854248:6:1",
+    "season": 6,
+    "episode": 1
+   },
+   {
+    "id": "tt13854248:6:2",
+    "season": 6,
+    "episode": 2
+   },
+   {
+    "id": "tt13854248:6:3",
+    "season": 6,
+    "episode": 3
+   },
+   {
+    "id": "tt13854248:6:4",
+    "season": 6,
+    "episode": 4
+   },
+   {
+    "id": "tt13854248:6:5",
+    "season": 6,
+    "episode": 5
+   },
+   {
+    "id": "tt13854248:6:6",
+    "season": 6,
+    "episode": 6
+   },
+   {
+    "id": "tt13854248:6:7",
+    "season": 6,
+    "episode": 7
+   },
+   {
+    "id": "tt13854248:7:1",
+    "season": 7,
+    "episode": 1
+   },
+   {
+    "id": "tt13854248:7:2",
+    "season": 7,
+    "episode": 2
+   },
+   {
+    "id": "tt13854248:7:3",
+    "season": 7,
+    "episode": 3
+   },
+   {
+    "id": "tt13854248:7:4",
+    "season": 7,
+    "episode": 4
+   },
+   {
+    "id": "tt13854248:7:5",
+    "season": 7,
+    "episode": 5
+   },
+   {
+    "id": "tt13854248:7:6",
+    "season": 7,
+    "episode": 6
+   },
+   {
+    "id": "tt13854248:7:7",
+    "season": 7,
+    "episode": 7
+   },
+   {
+    "id": "tt13854248:7:8",
+    "season": 7,
+    "episode": 8
+   }
+  ]
+ },
+ "series|koffee with karan|2026": {
+  "imdbId": "tt0445883",
+  "poster": "https://images.metahub.space/poster/small/tt0445883/img",
+  "background": "https://images.metahub.space/background/medium/tt0445883/img",
+  "imdbRating": "6.3",
+  "genres": [
+   "Comedy",
+   "Talk-Show"
+  ],
+  "runtime": "47 min",
+  "videos": [
+   {
+    "id": "tt0445883:0:1",
+    "season": 0,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:0:2",
+    "season": 0,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:0:3",
+    "season": 0,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:0:4",
+    "season": 0,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:0:5",
+    "season": 0,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:0:6",
+    "season": 0,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:1:8",
+    "season": 1,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:1:9",
+    "season": 1,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:1:10",
+    "season": 1,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:1:11",
+    "season": 1,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:1:12",
+    "season": 1,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:1:13",
+    "season": 1,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:1:14",
+    "season": 1,
+    "episode": 14
+   },
+   {
+    "id": "tt0445883:1:15",
+    "season": 1,
+    "episode": 15
+   },
+   {
+    "id": "tt0445883:1:16",
+    "season": 1,
+    "episode": 16
+   },
+   {
+    "id": "tt0445883:1:17",
+    "season": 1,
+    "episode": 17
+   },
+   {
+    "id": "tt0445883:1:18",
+    "season": 1,
+    "episode": 18
+   },
+   {
+    "id": "tt0445883:1:19",
+    "season": 1,
+    "episode": 19
+   },
+   {
+    "id": "tt0445883:1:20",
+    "season": 1,
+    "episode": 20
+   },
+   {
+    "id": "tt0445883:1:21",
+    "season": 1,
+    "episode": 21
+   },
+   {
+    "id": "tt0445883:1:22",
+    "season": 1,
+    "episode": 22
+   },
+   {
+    "id": "tt0445883:1:23",
+    "season": 1,
+    "episode": 23
+   },
+   {
+    "id": "tt0445883:1:24",
+    "season": 1,
+    "episode": 24
+   },
+   {
+    "id": "tt0445883:1:25",
+    "season": 1,
+    "episode": 25
+   },
+   {
+    "id": "tt0445883:2:1",
+    "season": 2,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:2:2",
+    "season": 2,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:2:3",
+    "season": 2,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:2:4",
+    "season": 2,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:2:5",
+    "season": 2,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:2:6",
+    "season": 2,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:2:7",
+    "season": 2,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:2:8",
+    "season": 2,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:2:9",
+    "season": 2,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:2:10",
+    "season": 2,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:2:11",
+    "season": 2,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:2:12",
+    "season": 2,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:2:13",
+    "season": 2,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:2:14",
+    "season": 2,
+    "episode": 14
+   },
+   {
+    "id": "tt0445883:2:15",
+    "season": 2,
+    "episode": 15
+   },
+   {
+    "id": "tt0445883:2:16",
+    "season": 2,
+    "episode": 16
+   },
+   {
+    "id": "tt0445883:2:17",
+    "season": 2,
+    "episode": 17
+   },
+   {
+    "id": "tt0445883:2:18",
+    "season": 2,
+    "episode": 18
+   },
+   {
+    "id": "tt0445883:2:19",
+    "season": 2,
+    "episode": 19
+   },
+   {
+    "id": "tt0445883:2:20",
+    "season": 2,
+    "episode": 20
+   },
+   {
+    "id": "tt0445883:2:21",
+    "season": 2,
+    "episode": 21
+   },
+   {
+    "id": "tt0445883:2:22",
+    "season": 2,
+    "episode": 22
+   },
+   {
+    "id": "tt0445883:2:23",
+    "season": 2,
+    "episode": 23
+   },
+   {
+    "id": "tt0445883:2:24",
+    "season": 2,
+    "episode": 24
+   },
+   {
+    "id": "tt0445883:2:25",
+    "season": 2,
+    "episode": 25
+   },
+   {
+    "id": "tt0445883:2:26",
+    "season": 2,
+    "episode": 26
+   },
+   {
+    "id": "tt0445883:3:1",
+    "season": 3,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:3:2",
+    "season": 3,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:3:3",
+    "season": 3,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:3:4",
+    "season": 3,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:3:5",
+    "season": 3,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:3:6",
+    "season": 3,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:3:7",
+    "season": 3,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:3:8",
+    "season": 3,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:3:9",
+    "season": 3,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:3:10",
+    "season": 3,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:3:11",
+    "season": 3,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:3:12",
+    "season": 3,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:3:13",
+    "season": 3,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:3:14",
+    "season": 3,
+    "episode": 14
+   },
+   {
+    "id": "tt0445883:3:15",
+    "season": 3,
+    "episode": 15
+   },
+   {
+    "id": "tt0445883:3:16",
+    "season": 3,
+    "episode": 16
+   },
+   {
+    "id": "tt0445883:3:17",
+    "season": 3,
+    "episode": 17
+   },
+   {
+    "id": "tt0445883:3:18",
+    "season": 3,
+    "episode": 18
+   },
+   {
+    "id": "tt0445883:3:19",
+    "season": 3,
+    "episode": 19
+   },
+   {
+    "id": "tt0445883:3:20",
+    "season": 3,
+    "episode": 20
+   },
+   {
+    "id": "tt0445883:3:21",
+    "season": 3,
+    "episode": 21
+   },
+   {
+    "id": "tt0445883:3:22",
+    "season": 3,
+    "episode": 22
+   },
+   {
+    "id": "tt0445883:4:1",
+    "season": 4,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:4:2",
+    "season": 4,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:4:3",
+    "season": 4,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:4:4",
+    "season": 4,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:4:5",
+    "season": 4,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:4:6",
+    "season": 4,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:4:7",
+    "season": 4,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:4:8",
+    "season": 4,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:4:9",
+    "season": 4,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:4:10",
+    "season": 4,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:4:11",
+    "season": 4,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:4:12",
+    "season": 4,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:4:13",
+    "season": 4,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:4:14",
+    "season": 4,
+    "episode": 14
+   },
+   {
+    "id": "tt0445883:4:15",
+    "season": 4,
+    "episode": 15
+   },
+   {
+    "id": "tt0445883:4:16",
+    "season": 4,
+    "episode": 16
+   },
+   {
+    "id": "tt0445883:4:17",
+    "season": 4,
+    "episode": 17
+   },
+   {
+    "id": "tt0445883:4:18",
+    "season": 4,
+    "episode": 18
+   },
+   {
+    "id": "tt0445883:4:19",
+    "season": 4,
+    "episode": 19
+   },
+   {
+    "id": "tt0445883:4:20",
+    "season": 4,
+    "episode": 20
+   },
+   {
+    "id": "tt0445883:5:1",
+    "season": 5,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:5:2",
+    "season": 5,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:5:3",
+    "season": 5,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:5:4",
+    "season": 5,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:5:5",
+    "season": 5,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:5:6",
+    "season": 5,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:5:7",
+    "season": 5,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:5:8",
+    "season": 5,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:5:9",
+    "season": 5,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:5:10",
+    "season": 5,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:5:11",
+    "season": 5,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:5:12",
+    "season": 5,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:5:13",
+    "season": 5,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:5:14",
+    "season": 5,
+    "episode": 14
+   },
+   {
+    "id": "tt0445883:5:15",
+    "season": 5,
+    "episode": 15
+   },
+   {
+    "id": "tt0445883:5:16",
+    "season": 5,
+    "episode": 16
+   },
+   {
+    "id": "tt0445883:5:17",
+    "season": 5,
+    "episode": 17
+   },
+   {
+    "id": "tt0445883:5:18",
+    "season": 5,
+    "episode": 18
+   },
+   {
+    "id": "tt0445883:5:19",
+    "season": 5,
+    "episode": 19
+   },
+   {
+    "id": "tt0445883:5:20",
+    "season": 5,
+    "episode": 20
+   },
+   {
+    "id": "tt0445883:6:1",
+    "season": 6,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:6:2",
+    "season": 6,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:6:3",
+    "season": 6,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:6:4",
+    "season": 6,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:6:5",
+    "season": 6,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:6:6",
+    "season": 6,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:6:7",
+    "season": 6,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:6:8",
+    "season": 6,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:6:9",
+    "season": 6,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:6:10",
+    "season": 6,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:6:11",
+    "season": 6,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:6:12",
+    "season": 6,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:6:13",
+    "season": 6,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:6:14",
+    "season": 6,
+    "episode": 14
+   },
+   {
+    "id": "tt0445883:6:15",
+    "season": 6,
+    "episode": 15
+   },
+   {
+    "id": "tt0445883:6:16",
+    "season": 6,
+    "episode": 16
+   },
+   {
+    "id": "tt0445883:6:17",
+    "season": 6,
+    "episode": 17
+   },
+   {
+    "id": "tt0445883:6:18",
+    "season": 6,
+    "episode": 18
+   },
+   {
+    "id": "tt0445883:6:19",
+    "season": 6,
+    "episode": 19
+   },
+   {
+    "id": "tt0445883:6:20",
+    "season": 6,
+    "episode": 20
+   },
+   {
+    "id": "tt0445883:6:21",
+    "season": 6,
+    "episode": 21
+   },
+   {
+    "id": "tt0445883:6:22",
+    "season": 6,
+    "episode": 22
+   },
+   {
+    "id": "tt0445883:7:1",
+    "season": 7,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:7:2",
+    "season": 7,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:7:3",
+    "season": 7,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:7:4",
+    "season": 7,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:7:5",
+    "season": 7,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:7:6",
+    "season": 7,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:7:7",
+    "season": 7,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:7:8",
+    "season": 7,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:7:9",
+    "season": 7,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:7:10",
+    "season": 7,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:7:11",
+    "season": 7,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:7:12",
+    "season": 7,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:7:13",
+    "season": 7,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:8:1",
+    "season": 8,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:8:2",
+    "season": 8,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:8:3",
+    "season": 8,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:8:4",
+    "season": 8,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:8:5",
+    "season": 8,
+    "episode": 5
+   },
+   {
+    "id": "tt0445883:8:6",
+    "season": 8,
+    "episode": 6
+   },
+   {
+    "id": "tt0445883:8:7",
+    "season": 8,
+    "episode": 7
+   },
+   {
+    "id": "tt0445883:8:8",
+    "season": 8,
+    "episode": 8
+   },
+   {
+    "id": "tt0445883:8:9",
+    "season": 8,
+    "episode": 9
+   },
+   {
+    "id": "tt0445883:8:10",
+    "season": 8,
+    "episode": 10
+   },
+   {
+    "id": "tt0445883:8:11",
+    "season": 8,
+    "episode": 11
+   },
+   {
+    "id": "tt0445883:8:12",
+    "season": 8,
+    "episode": 12
+   },
+   {
+    "id": "tt0445883:8:13",
+    "season": 8,
+    "episode": 13
+   },
+   {
+    "id": "tt0445883:9:1",
+    "season": 9,
+    "episode": 1
+   },
+   {
+    "id": "tt0445883:9:2",
+    "season": 9,
+    "episode": 2
+   },
+   {
+    "id": "tt0445883:9:3",
+    "season": 9,
+    "episode": 3
+   },
+   {
+    "id": "tt0445883:9:4",
+    "season": 9,
+    "episode": 4
+   },
+   {
+    "id": "tt0445883:9:5",
+    "season": 9,
+    "episode": 5
+   }
+  ]
+ },
+ "series|marathi medium|2026": {
+  "imdbId": "tt43331359",
+  "poster": "https://images.metahub.space/poster/small/tt43331359/img",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": null,
+  "videos": []
+ },
+ "series|ashirbad|2026": {
+  "imdbId": null
+ },
+ "series|kaid parinda: saubhagyavati bhava|2026": {
+  "imdbId": null
+ }
+}

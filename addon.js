@@ -2,11 +2,12 @@
 /**
  * Access Bollywood — New Titles (Stremio addon)
  *
- * Catalog-only addon (no streams). It surfaces:
- *  - "Alerts" catalogs: only the titles the daily Access Bollywood monitor
- *    actually alerted on (Hindi-first filter already applied), newest first.
- *  - One movie + one series catalog per platform (Netflix, Amazon Prime,
- *    Hulu, Zee5) built from that platform's current "Newly Added" list.
+ * One catalog ("Access Bollywood — New Titles", declared once per type):
+ * the titles the daily Access Bollywood monitor actually alerted on
+ * (Hindi-first filter already applied). Titles are IMDb-matched at build
+ * time (enrich.js, via Cinemeta) so metas carry real IMDb IDs + posters;
+ * no streams — the user's own metadata/stream addons attach to the
+ * IMDb-ID detail pages.
  *
  * Data sources, in priority order:
  *  1. The live snapshot.md from the daily monitor, if found
@@ -76,22 +77,47 @@ function parseRawTitle(raw, platformName, extra = {}) {
   };
 }
 
+// ---------- enrichment (IMDb IDs + posters, from enrich.js / Cinemeta) ----------
+function loadEnrichCache() {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(DIR, "enrich-cache.json"), "utf8"));
+  } catch (_) {
+    return {};
+  }
+}
+const enrichKey = (t) => `${t.type}|${t.name.toLowerCase()}|${t.year || ""}`;
+function enrichOf(t) {
+  const e = loadEnrichCache()[enrichKey(t)];
+  return e && e.imdbId ? e : null;
+}
+
 function toMeta(t) {
   const bits = [`New on ${t.platform}.`];
   if (t.seasonNote) bits.push(t.seasonNote + ".");
   if (t.language) bits.push(`Language: ${t.language}.`);
   if (t.alertDate) bits.push(`Alerted ${t.alertDate}.`);
   else if (t.listUpdated) bits.push(`List updated ${t.listUpdated}.`);
-  bits.push("Source: Access Bollywood daily monitor. Catalog-only entry — open the title in the platform's own app to watch.");
-  return {
-    id: t.id,
+  bits.push("Source: Access Bollywood daily monitor.");
+  const e = enrichOf(t);
+  const meta = {
+    // Prefer the real IMDb ID: the detail page then becomes the standard
+    // Stremio page for the title, so installed metadata addons (e.g. AIO
+    // Metadata) and stream addons attach to it automatically.
+    id: e ? e.imdbId : t.id,
     type: t.type,
     name: t.name,
     releaseInfo: t.year || undefined,
     year: t.year || undefined,
     description: bits.join(" "),
-    genres: ["Indian", t.platform],
+    genres: e && e.genres && e.genres.length ? e.genres : ["Indian", t.platform],
   };
+  if (e) {
+    if (e.poster) meta.poster = e.poster;
+    if (e.background) meta.background = e.background;
+    if (e.imdbRating) meta.imdbRating = e.imdbRating;
+    if (e.runtime) meta.runtime = e.runtime;
+  }
+  return meta;
 }
 
 // ---------- snapshot parsing ----------
@@ -175,31 +201,49 @@ function catalogMetas(catalogId, type, search) {
     const q = search.toLowerCase();
     titles = titles.filter((t) => t.name.toLowerCase().includes(q));
   }
-  // de-dupe by id, keep first occurrence
+  // de-dupe by final meta id (an IMDb-matched title alerted on two
+  // platforms collapses to one entry), keep first occurrence
   const seen = new Set();
   return titles
-    .filter((t) => (seen.has(t.id) ? false : (seen.add(t.id), true)))
-    .map(toMeta);
+    .map(toMeta)
+    .filter((m) => (seen.has(m.id) ? false : (seen.add(m.id), true)));
 }
 
-function findMeta(type, id) {
+function allTitles() {
   const all = [...loadAlerts()];
   const data = loadPlatformData();
   for (const k of Object.keys(data)) all.push(...(data[k].titles || []));
-  const t = all.find((x) => x.id === id && x.type === type) || all.find((x) => x.id === id);
+  return all;
+}
+
+function findTitle(type, id) {
+  const all = allTitles();
+  return (
+    all.find((x) => (x.id === id || (enrichOf(x) || {}).imdbId === id) && x.type === type) ||
+    all.find((x) => x.id === id || (enrichOf(x) || {}).imdbId === id) ||
+    null
+  );
+}
+
+function findMeta(type, id) {
+  const t = findTitle(type, id);
   return t ? toMeta(t) : null;
 }
+
+// No stream resource (user decision, 2026-11-06: posters + IMDb IDs only,
+// no "Watch on …" links). Playback addons the user installs attach to the
+// IMDb-ID detail pages themselves.
 
 // ---------- manifest ----------
 const manifest = {
   id: "community.accessbollywood.newtitles",
-  version: "1.1.0",
+  version: "1.2.0",
   name: "Access Bollywood — New Titles",
   description:
-    "New Indian movies & series added to Netflix, Amazon Prime, Hulu and Zee5, from the daily Access Bollywood monitor (Hindi-first). Catalog only — no streams.",
+    "New Indian movies & series added to Netflix, Amazon Prime, Hulu and Zee5, from the daily Access Bollywood monitor (Hindi-first). IMDb-matched, with posters.",
   resources: ["catalog", "meta"],
   types: ["movie", "series"],
-  idPrefixes: ["ab:"],
+  idPrefixes: ["ab:", "tt"],
   catalogs: buildCatalogs(),
   behaviorHints: { configurable: false },
 };
@@ -247,7 +291,7 @@ const server = http.createServer((req, res) => {
       const meta = findMeta(parts[1], parts[2].replace(/\.json$/, ""));
       return meta ? send(res, 200, { meta }) : send(res, 404, { error: "not found" });
     }
-    // /stream/... — catalog-only addon
+    // /stream/... — no streams from this addon
     if (parts[0] === "stream") {
       return send(res, 200, { streams: [] });
     }
@@ -263,4 +307,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { parseRawTitle, parseSnapshot, catalogMetas, manifest };
+module.exports = { parseRawTitle, parseSnapshot, catalogMetas, manifest, findMeta };

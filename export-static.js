@@ -7,7 +7,7 @@
  *   docs/manifest.json
  *   docs/catalog/<type>/<catalogId>.json
  *   docs/meta/<type>/<id>.json
- *   docs/stream/<type>/<id>.json   (empty streams — catalog only)
+ *   docs/stream/<type>/<id>.json   (empty streams — no stream resource)
  *
  * Limits vs. the live server: no in-catalog search, and no pagination
  * extras — fine here, the largest catalog is well under 100 entries.
