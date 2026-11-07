@@ -211,6 +211,15 @@ function loadOtherBaseline() {
 const CATALOG_BLOCKLIST = [/^chhota bheem\b/i];
 const catalogBlocked = (t) => CATALOG_BLOCKLIST.some((re) => re.test(t.name));
 
+// IMDb-only catalogs (user request, 2026-11-07): a title appears in a
+// catalog only when build-time enrichment found an IMDb ID for it.
+// Without one, its detail page is a dead-end custom ab: page that the
+// user's metadata/stream addons cannot attach to. The underlying data
+// (titles.json, catalog-data.json, other-baseline.json) is untouched —
+// a title that gains an IMDb match in a later build re-enters the
+// catalog automatically.
+const hasImdbId = (t) => !!enrichOf(t);
+
 function buildCatalogs() {
   // One catalog only (user request, 2026-11-06): alerted titles merged with
   // all four platforms' Newly Added lists. Stremio separates Movies and
@@ -254,6 +263,8 @@ function catalogMetas(catalogId, type, search) {
       })
       .map((x) => x.t);
   }
+  // IMDb-only: drop every title enrichment could not match to an IMDb ID.
+  titles = titles.filter(hasImdbId);
   if (search) {
     const q = search.toLowerCase();
     titles = titles.filter((t) => t.name.toLowerCase().includes(q));
