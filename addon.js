@@ -201,6 +201,24 @@ function catalogMetas(catalogId, type, search) {
     const data = loadPlatformData();
     titles = ((data[m[1]] && data[m[1]].titles) || []).filter((t) => t.type === type);
   }
+  if (catalogId.startsWith("ab-new") || catalogId.startsWith("ab-alerts")) {
+    // Newest first: alerted titles by alert date (latest alert first),
+    // then the baseline Newly Added titles by their list's updated date,
+    // keeping each list's on-page order (Access Bollywood lists newest
+    // additions first within a list).
+    titles = titles
+      .map((t, i) => ({ t, i }))
+      .sort((a, b) => {
+        const ad = a.t.alertDate, bd = b.t.alertDate;
+        if (ad && bd) return bd.localeCompare(ad) || b.i - a.i;
+        if (ad) return -1;
+        if (bd) return 1;
+        const au = Date.parse(a.t.listUpdated || "") || 0;
+        const bu = Date.parse(b.t.listUpdated || "") || 0;
+        return bu - au || a.i - b.i;
+      })
+      .map((x) => x.t);
+  }
   if (search) {
     const q = search.toLowerCase();
     titles = titles.filter((t) => t.name.toLowerCase().includes(q));
@@ -241,7 +259,7 @@ function findMeta(type, id) {
 // ---------- manifest ----------
 const manifest = {
   id: "community.accessbollywood.newtitles",
-  version: "1.3.0",
+  version: "1.3.1",
   name: "Access Bollywood — New Titles",
   description:
     "New Indian movies & series added to Netflix, Amazon Prime, Hulu and Zee5, from the daily Access Bollywood monitor (Hindi-first). IMDb-matched, with posters.",

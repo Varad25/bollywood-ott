@@ -13,5 +13,5 @@
     "build": "node update-from-snapshot.js && node enrich.js && node export-static.js",
     "export": "node export-static.js"
   },
-  "version": "1.3.0"
+  "version": "1.3.1"
 }
