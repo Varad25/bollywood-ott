@@ -3931,5 +3931,181 @@
  },
  "movie|heartbeat|2026": {
   "imdbId": null
+ },
+ "movie|eega|2012": {
+  "imdbId": "tt2258337",
+  "poster": "https://images.metahub.space/poster/small/tt2258337/img",
+  "background": "https://images.metahub.space/background/medium/tt2258337/img",
+  "imdbRating": "7.7",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "145 min",
+  "videos": []
+ },
+ "movie|attarintiki daredi|2013": {
+  "imdbId": "tt3042926",
+  "poster": "https://images.metahub.space/poster/small/tt3042926/img",
+  "background": "https://images.metahub.space/background/medium/tt3042926/img",
+  "imdbRating": "7.3",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "169 min",
+  "videos": []
+ },
+ "movie|seethamma vakitlo sirimalle chettu|2013": {
+  "imdbId": null
+ },
+ "series|kauriburi: the cursed temple|2026": {
+  "imdbId": null
+ },
+ "movie|dohchay|2015": {
+  "imdbId": "tt4463780",
+  "poster": "https://images.metahub.space/poster/small/tt4463780/img",
+  "background": "https://images.metahub.space/background/medium/tt4463780/img",
+  "imdbRating": "5.8",
+  "genres": [
+   "Action"
+  ],
+  "runtime": "138 min",
+  "videos": []
+ },
+ "movie|dongala muta|2011": {
+  "imdbId": null
+ },
+ "movie|fidaa|2017": {
+  "imdbId": "tt7159382",
+  "poster": "https://images.metahub.space/poster/small/tt7159382/img",
+  "background": "https://images.metahub.space/background/medium/tt7159382/img",
+  "imdbRating": "7.4",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "145 min",
+  "videos": []
+ },
+ "movie|kushi|2001": {
+  "imdbId": "tt0361818",
+  "poster": "https://images.metahub.space/poster/small/tt0361818/img",
+  "background": "https://images.metahub.space/background/medium/tt0361818/img",
+  "imdbRating": "7.9",
+  "genres": [
+   "Comedy",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "178 min",
+  "videos": []
+ },
+ "movie|namo venkatesa|2010": {
+  "imdbId": "tt1582560",
+  "poster": "https://images.metahub.space/poster/small/tt1582560/img",
+  "background": "https://images.metahub.space/background/medium/tt1582560/img",
+  "imdbRating": "5.4",
+  "genres": [
+   "Action",
+   "Comedy",
+   "Crime"
+  ],
+  "runtime": "145 min",
+  "videos": []
+ },
+ "movie|ramayya vasthavayya|2013": {
+  "imdbId": null
+ },
+ "movie|ready|2008": {
+  "imdbId": "tt1156516",
+  "poster": "https://images.metahub.space/poster/small/tt1156516/img",
+  "background": "https://images.metahub.space/background/medium/tt1156516/img",
+  "imdbRating": "7.2",
+  "genres": [
+   "Action",
+   "Comedy"
+  ],
+  "runtime": "171 min",
+  "videos": []
+ },
+ "movie|sahasam swasaga sagipo|2016": {
+  "imdbId": null
+ },
+ "movie|shirdi sai|2012": {
+  "imdbId": "tt2397561",
+  "poster": "https://live.metahub.space/poster/small/tt2397561/img",
+  "background": "https://live.metahub.space/background/medium/tt2397561/img",
+  "imdbRating": "6.5",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": "142 min",
+  "videos": []
+ },
+ "movie|sindhooram|1997": {
+  "imdbId": "tt1885372",
+  "poster": "https://images.metahub.space/poster/small/tt1885372/img",
+  "background": "https://images.metahub.space/background/medium/tt1885372/img",
+  "imdbRating": "7.5",
+  "genres": [
+   "Action",
+   "Drama",
+   "Romance"
+  ],
+  "runtime": "150 min",
+  "videos": []
+ },
+ "movie|thammudu|1999": {
+  "imdbId": "tt0240084",
+  "poster": "https://images.metahub.space/poster/small/tt0240084/img",
+  "background": "https://images.metahub.space/background/medium/tt0240084/img",
+  "imdbRating": "7.9",
+  "genres": [
+   "Action",
+   "Drama",
+   "Sport"
+  ],
+  "runtime": "160 min",
+  "videos": []
+ },
+ "movie|yevadu|2014": {
+  "imdbId": "tt2211173",
+  "poster": "https://images.metahub.space/poster/small/tt2211173/img",
+  "background": "https://images.metahub.space/background/medium/tt2211173/img",
+  "imdbRating": "6.0",
+  "genres": [
+   "Action",
+   "Thriller"
+  ],
+  "runtime": "166 min",
+  "videos": []
+ },
+ "movie|yogi|2007": {
+  "imdbId": "tt0887793",
+  "poster": "https://live.metahub.space/poster/small/tt0887793/img",
+  "background": "https://live.metahub.space/background/medium/tt0887793/img",
+  "imdbRating": "4.7",
+  "genres": [
+   "Action",
+   "Drama"
+  ],
+  "runtime": "155 min",
+  "videos": []
+ },
+ "movie|yuddham sharanam|2017": {
+  "imdbId": "tt6644636",
+  "poster": "https://images.metahub.space/poster/small/tt6644636/img",
+  "background": "https://images.metahub.space/background/medium/tt6644636/img",
+  "imdbRating": "5.8",
+  "genres": [
+   "Action",
+   "Thriller"
+  ],
+  "runtime": "141 min",
+  "videos": []
  }
 }

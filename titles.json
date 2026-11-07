@@ -1,1 +1,92 @@
-[{"alertDate":"2026-10-28","platform":"Netflix","title":"Baththa (2026/Tamil)"},{"alertDate":"2026-10-28","platform":"Netflix","title":"Dhindora, Season 1 (2021)"},{"alertDate":"2026-10-30","platform":"Netflix","title":"Akka, Season 1 (2026)"},{"alertDate":"2026-10-30","platform":"Netflix","title":"How to Ruin Diwali, Season 1 (2026)"},{"alertDate":"2026-10-30","platform":"Netflix","title":"Meethe Mein Kya Hai (2026)"},{"alertDate":"2026-10-30","platform":"Amazon Prime","title":"Mirzapur: The Movie (2026)"},{"alertDate":"2026-10-30","platform":"Hulu","title":"Love Always, Season 1 (2026/Tamil, Hindi-dubbed)"},{"alertDate":"2026-11-03","platform":"Netflix","title":"Manmarziyaan (2018)"},{"alertDate":"2026-11-03","platform":"Netflix","title":"Raanjhanaa (2013)"},{"alertDate":"2026-11-03","platform":"Netflix","title":"Rockstar (2011)"},{"alertDate":"2026-11-03","platform":"Netflix","title":"Chhota Bheem, Season 20 (2026)"},{"alertDate":"2026-11-03","platform":"Netflix","title":"Chhota Bheem: Damyaan and Co., Season 1 (2026)"},{"alertDate":"2026-11-03","platform":"Netflix","title":"Chhota Bheem: Dholakpur Dhamaka, Season 1 (2026)"},{"alertDate":"2026-11-05","platform":"Netflix","title":"Dilwali Diwali (2026)"},{"alertDate":"2026-11-06","platform":"Zee5","title":"Last Man in Tower (2026/Hindi)"}]
+[
+  {
+    "alertDate": "2026-10-28",
+    "platform": "Netflix",
+    "title": "Baththa (2026/Tamil)"
+  },
+  {
+    "alertDate": "2026-10-28",
+    "platform": "Netflix",
+    "title": "Dhindora, Season 1 (2021)"
+  },
+  {
+    "alertDate": "2026-10-30",
+    "platform": "Netflix",
+    "title": "Akka, Season 1 (2026)"
+  },
+  {
+    "alertDate": "2026-10-30",
+    "platform": "Netflix",
+    "title": "How to Ruin Diwali, Season 1 (2026)"
+  },
+  {
+    "alertDate": "2026-10-30",
+    "platform": "Netflix",
+    "title": "Meethe Mein Kya Hai (2026)"
+  },
+  {
+    "alertDate": "2026-10-30",
+    "platform": "Amazon Prime",
+    "title": "Mirzapur: The Movie (2026)"
+  },
+  {
+    "alertDate": "2026-10-30",
+    "platform": "Hulu",
+    "title": "Love Always, Season 1 (2026/Tamil, Hindi-dubbed)"
+  },
+  {
+    "alertDate": "2026-11-03",
+    "platform": "Netflix",
+    "title": "Manmarziyaan (2018)"
+  },
+  {
+    "alertDate": "2026-11-03",
+    "platform": "Netflix",
+    "title": "Raanjhanaa (2013)"
+  },
+  {
+    "alertDate": "2026-11-03",
+    "platform": "Netflix",
+    "title": "Rockstar (2011)"
+  },
+  {
+    "alertDate": "2026-11-03",
+    "platform": "Netflix",
+    "title": "Chhota Bheem, Season 20 (2026)"
+  },
+  {
+    "alertDate": "2026-11-03",
+    "platform": "Netflix",
+    "title": "Chhota Bheem: Damyaan and Co., Season 1 (2026)"
+  },
+  {
+    "alertDate": "2026-11-03",
+    "platform": "Netflix",
+    "title": "Chhota Bheem: Dholakpur Dhamaka, Season 1 (2026)"
+  },
+  {
+    "alertDate": "2026-11-05",
+    "platform": "Netflix",
+    "title": "Dilwali Diwali (2026)"
+  },
+  {
+    "alertDate": "2026-11-06",
+    "platform": "Zee5",
+    "title": "Last Man in Tower (2026/Hindi)"
+  },
+  {
+    "title": "Eega (2012/Telugu)",
+    "platform": "Netflix",
+    "alertDate": "2026-11-07"
+  },
+  {
+    "title": "Attarintiki Daredi (2013/Telugu)",
+    "platform": "Netflix",
+    "alertDate": "2026-11-07"
+  },
+  {
+    "title": "Seethamma Vakitlo Sirimalle Chettu (2013/Telugu)",
+    "platform": "Netflix",
+    "alertDate": "2026-11-07"
+  }
+]

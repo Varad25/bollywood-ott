@@ -3,6 +3,18 @@
     "listUpdated": "November 6, 2026",
     "titles": [
       {
+        "id": "ab:netflix:kauriburi-the-cursed-temple-2026",
+        "name": "Kauriburi: The Cursed Temple",
+        "type": "series",
+        "year": "2026",
+        "language": null,
+        "seasonNote": "Season 1",
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Kauriburi: The Cursed Temple, Season 1 (2026)"
+      },
+      {
         "id": "ab:netflix:dilwali-diwali-2026",
         "name": "Dilwali Diwali",
         "type": "movie",
@@ -13,6 +25,210 @@
         "alertDate": null,
         "listUpdated": "November 6, 2026",
         "raw": "Dilwali Diwali (2026)*"
+      },
+      {
+        "id": "ab:netflix:attarintiki-daredi-2013",
+        "name": "Attarintiki Daredi",
+        "type": "movie",
+        "year": "2013",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Attarintiki Daredi (2013/Telugu)"
+      },
+      {
+        "id": "ab:netflix:dohchay-2015",
+        "name": "Dohchay",
+        "type": "movie",
+        "year": "2015",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Dohchay (2015/Telugu)"
+      },
+      {
+        "id": "ab:netflix:dongala-muta-2011",
+        "name": "Dongala Muta",
+        "type": "movie",
+        "year": "2011",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Dongala Muta (2011/Telugu)"
+      },
+      {
+        "id": "ab:netflix:eega-2012",
+        "name": "Eega",
+        "type": "movie",
+        "year": "2012",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Eega (2012/Telugu)"
+      },
+      {
+        "id": "ab:netflix:fidaa-2017",
+        "name": "Fidaa",
+        "type": "movie",
+        "year": "2017",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Fidaa (2017/Telugu)"
+      },
+      {
+        "id": "ab:netflix:kushi-2001",
+        "name": "Kushi",
+        "type": "movie",
+        "year": "2001",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Kushi (2001/Telugu)"
+      },
+      {
+        "id": "ab:netflix:namo-venkatesa-2010",
+        "name": "Namo Venkatesa",
+        "type": "movie",
+        "year": "2010",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Namo Venkatesa (2010/Telugu)"
+      },
+      {
+        "id": "ab:netflix:ramayya-vasthavayya-2013",
+        "name": "Ramayya Vasthavayya",
+        "type": "movie",
+        "year": "2013",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Ramayya Vasthavayya (2013/Telugu)"
+      },
+      {
+        "id": "ab:netflix:ready-2008",
+        "name": "Ready",
+        "type": "movie",
+        "year": "2008",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Ready (2008/Telugu)"
+      },
+      {
+        "id": "ab:netflix:sahasam-swasaga-sagipo-2016",
+        "name": "Sahasam Swasaga Sagipo",
+        "type": "movie",
+        "year": "2016",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Sahasam Swasaga Sagipo (2016/Telugu)"
+      },
+      {
+        "id": "ab:netflix:seethamma-vakitlo-sirimalle-chettu-2013",
+        "name": "Seethamma Vakitlo Sirimalle Chettu",
+        "type": "movie",
+        "year": "2013",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Seethamma Vakitlo Sirimalle Chettu (2013/Telugu)"
+      },
+      {
+        "id": "ab:netflix:shirdi-sai-2012",
+        "name": "Shirdi Sai",
+        "type": "movie",
+        "year": "2012",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Shirdi Sai (2012/Telugu)"
+      },
+      {
+        "id": "ab:netflix:sindhooram-1997",
+        "name": "Sindhooram",
+        "type": "movie",
+        "year": "1997",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Sindhooram (1997/Telugu)"
+      },
+      {
+        "id": "ab:netflix:thammudu-1999",
+        "name": "Thammudu",
+        "type": "movie",
+        "year": "1999",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Thammudu (1999/Telugu)"
+      },
+      {
+        "id": "ab:netflix:yevadu-2014",
+        "name": "Yevadu",
+        "type": "movie",
+        "year": "2014",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Yevadu (2014/Telugu)"
+      },
+      {
+        "id": "ab:netflix:yogi-2007",
+        "name": "Yogi",
+        "type": "movie",
+        "year": "2007",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Yogi (2007/Telugu)"
+      },
+      {
+        "id": "ab:netflix:yuddham-sharanam-2017",
+        "name": "Yuddham Sharanam",
+        "type": "movie",
+        "year": "2017",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 6, 2026",
+        "raw": "Yuddham Sharanam (2017/Telugu)"
       },
       {
         "id": "ab:netflix:manmarziyaan-2018",
@@ -493,83 +709,11 @@
         "alertDate": null,
         "listUpdated": "November 6, 2026",
         "raw": "Mandaadi (2026/Tamil)"
-      },
-      {
-        "id": "ab:netflix:fukrey-returns-2017",
-        "name": "Fukrey Returns",
-        "type": "movie",
-        "year": "2017",
-        "language": null,
-        "seasonNote": null,
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 6, 2026",
-        "raw": "Fukrey Returns (2017)"
-      },
-      {
-        "id": "ab:netflix:housefull-2010",
-        "name": "Housefull",
-        "type": "movie",
-        "year": "2010",
-        "language": null,
-        "seasonNote": null,
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 6, 2026",
-        "raw": "Housefull (2010)"
-      },
-      {
-        "id": "ab:netflix:housefull-3-2016",
-        "name": "Housefull 3",
-        "type": "movie",
-        "year": "2016",
-        "language": null,
-        "seasonNote": null,
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 6, 2026",
-        "raw": "Housefull 3 (2016)"
-      },
-      {
-        "id": "ab:netflix:tanu-weds-manu-2011",
-        "name": "Tanu Weds Manu",
-        "type": "movie",
-        "year": "2011",
-        "language": null,
-        "seasonNote": null,
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 6, 2026",
-        "raw": "Tanu Weds Manu (2011)"
-      },
-      {
-        "id": "ab:netflix:tanu-weds-manu-returns-2015",
-        "name": "Tanu Weds Manu Returns",
-        "type": "movie",
-        "year": "2015",
-        "language": null,
-        "seasonNote": null,
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 6, 2026",
-        "raw": "Tanu Weds Manu Returns (2015)"
-      },
-      {
-        "id": "ab:netflix:sunday-brunch-with-kamiya-jani-2026",
-        "name": "Sunday Brunch With Kamiya Jani",
-        "type": "series",
-        "year": "2026",
-        "language": null,
-        "seasonNote": "Season 1",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 6, 2026",
-        "raw": "Sunday Brunch With Kamiya Jani, Season 1 (2026)"
       }
     ]
   },
   "prime": {
-    "listUpdated": "November 5, 2026",
+    "listUpdated": "November 6, 2026",
     "titles": [
       {
         "id": "ab:amazonprime:comrade-kalyan-2026",
@@ -580,7 +724,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Comrade Kalyan (2026/Telugu)"
       },
       {
@@ -592,7 +736,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Mirzapur: The Movie (2026)"
       },
       {
@@ -604,7 +748,7 @@
         "seasonNote": "Season 1",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Chaar Yaar, Season 1 (2026)"
       },
       {
@@ -616,7 +760,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Lenin Pandiyan (2026/Tamil)"
       },
       {
@@ -628,7 +772,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Awarapan 2 (2026)"
       },
       {
@@ -640,7 +784,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Mahendragiri Vaaraahi (2026/Telugu)"
       },
       {
@@ -652,7 +796,7 @@
         "seasonNote": "Season 2",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Dupahiya, Season 2 (2026)"
       },
       {
@@ -664,7 +808,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Sardar 2 (2026/Tamil)"
       },
       {
@@ -676,7 +820,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Don't Be Shy (2026)"
       },
       {
@@ -688,13 +832,13 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Ramba Oorvasi Menaka (2026/Telugu)"
       }
     ]
   },
   "hulu": {
-    "listUpdated": "November 5, 2026",
+    "listUpdated": "November 6, 2026",
     "titles": [
       {
         "id": "ab:hulu:love-always-2026",
@@ -705,7 +849,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Love Always, Season 1 (2026/Tamil)*"
       },
       {
@@ -717,7 +861,7 @@
         "seasonNote": "Season 7",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "The Legend of Hanuman, Season 7 (2026/Hindi)*"
       },
       {
@@ -729,7 +873,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Varam, Season 1 (2026/Telugu)*"
       },
       {
@@ -741,7 +885,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Kappi Squad, Season 1 (2026/Malayalam)*"
       },
       {
@@ -753,7 +897,7 @@
         "seasonNote": "Season 9",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Koffee with Karan, Season 9 (2026/Hindi & English)"
       },
       {
@@ -765,7 +909,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Marathi Medium, Season 1 (2026/Marathi)"
       },
       {
@@ -777,7 +921,7 @@
         "seasonNote": null,
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "BB Bakshi (2026/Bengali)"
       },
       {
@@ -789,7 +933,7 @@
         "seasonNote": null,
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Raas (2025/Bengali)"
       },
       {
@@ -801,7 +945,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Ashirbad, Season 1 (2026/Bengali)"
       },
       {
@@ -813,7 +957,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 6, 2026",
         "raw": "Kaid Parinda: Saubhagyavati Bhava, Season 1 (2026/Hindi)"
       }
     ]
