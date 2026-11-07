@@ -21,7 +21,7 @@
  */
 const fs = require("fs");
 const path = require("path");
-const { parseRawTitle } = require("./addon");
+const { parseRawTitle, loadOtherBaseline } = require("./addon");
 
 const DIR = __dirname;
 const CACHE_PATH = path.join(DIR, "enrich-cache.json");
@@ -46,6 +46,7 @@ function collectTitles() {
       for (const t of data[k].titles || []) out.set(keyOf(t), t);
     }
   } catch (_) {}
+  for (const t of loadOtherBaseline()) out.set(keyOf(t), t);
   return [...out.values()];
 }
 

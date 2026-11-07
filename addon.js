@@ -96,8 +96,13 @@ function toMeta(t) {
   if (t.seasonNote) bits.push(t.seasonNote + ".");
   if (t.language) bits.push(`Language: ${t.language}.`);
   if (t.alertDate) bits.push(`Alerted ${t.alertDate}.`);
+  else if (t.source && t.releaseLabel) bits.push(`Released ${t.releaseLabel}.`);
   else if (t.listUpdated) bits.push(`List updated ${t.listUpdated}.`);
-  bits.push("Source: Access Bollywood daily monitor.");
+  bits.push(
+    t.source
+      ? `Source: ${t.source} (India OTT releases), via the daily monitor.`
+      : "Source: Access Bollywood daily monitor."
+  );
   const e = enrichOf(t);
   const meta = {
     // Prefer the real IMDb ID: the detail page then becomes the standard
@@ -175,6 +180,30 @@ function loadAlerts() {
   }
 }
 
+// Baseline titles from the monitor's two additional sources (Cinebuds +
+// OTTweek, added 2026-11-06): India-OTT releases incl. platforms Access
+// Bollywood doesn't track (SonyLIV, JioHotstar, …). Static capture in
+// other-baseline.json; new finds from those sources arrive via titles.json.
+function loadOtherBaseline() {
+  try {
+    const raw = JSON.parse(fs.readFileSync(path.join(DIR, "other-baseline.json"), "utf8"));
+    return raw.map((r) => {
+      const d = new Date(`${r.date}T12:00:00Z`);
+      const nice = Number.isNaN(d.getTime())
+        ? null
+        : d.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" });
+      const t = parseRawTitle(r.year ? `${r.title} (${r.year})` : r.title, r.platform, { listUpdated: nice });
+      if (r.type) t.type = r.type;
+      if (r.language) t.language = r.language;
+      t.source = r.source || "India OTT";
+      t.releaseLabel = nice;
+      return t;
+    });
+  } catch (_) {
+    return [];
+  }
+}
+
 // ---------- catalogs ----------
 // Titles the user asked to keep out of the catalog (2026-11-06):
 // all Chhota Bheem entries, incl. spin-offs. Applies to the advertised
@@ -230,17 +259,30 @@ function catalogMetas(catalogId, type, search) {
     titles = titles.filter((t) => t.name.toLowerCase().includes(q));
   }
   // de-dupe by final meta id (an IMDb-matched title alerted on two
-  // platforms collapses to one entry), keep first occurrence
+  // platforms collapses to one entry), keep first occurrence. The merged
+  // catalogs additionally de-dupe by name+type, so the same title arriving
+  // from two sources (Access Bollywood vs Cinebuds/OTTweek) without an
+  // IMDb match still shows only once.
   const seen = new Set();
-  return titles
-    .map(toMeta)
-    .filter((m) => (seen.has(m.id) ? false : (seen.add(m.id), true)));
+  const seenName = new Set();
+  const dedupeByName = catalogId.startsWith("ab-new") || catalogId.startsWith("ab-alerts");
+  return titles.map(toMeta).filter((m) => {
+    if (seen.has(m.id)) return false;
+    seen.add(m.id);
+    if (dedupeByName) {
+      const nk = `${m.type}|${m.name.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()}`;
+      if (seenName.has(nk)) return false;
+      seenName.add(nk);
+    }
+    return true;
+  });
 }
 
 function allTitles() {
   const all = [...loadAlerts()];
   const data = loadPlatformData();
   for (const k of Object.keys(data)) all.push(...(data[k].titles || []));
+  all.push(...loadOtherBaseline());
   return all;
 }
 
@@ -265,10 +307,10 @@ function findMeta(type, id) {
 // ---------- manifest ----------
 const manifest = {
   id: "community.accessbollywood.newtitles",
-  version: "1.3.2",
+  version: "1.4.0",
   name: "Access Bollywood — New Titles",
   description:
-    "New Indian movies & series added to Netflix, Amazon Prime, Hulu and Zee5, from the daily Access Bollywood monitor (Hindi-first). IMDb-matched, with posters.",
+    "New Indian movies & series on Netflix, Amazon Prime, Hulu, Zee5 and India OTT (SonyLIV, JioHotstar, …), from the daily monitor (Access Bollywood + Cinebuds + OTTweek, Hindi-first). IMDb-matched, with posters.",
   resources: ["catalog", "meta"],
   types: ["movie", "series"],
   idPrefixes: ["ab:", "tt"],
@@ -335,4 +377,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { parseRawTitle, parseSnapshot, catalogMetas, manifest, findMeta };
+module.exports = { parseRawTitle, parseSnapshot, catalogMetas, manifest, findMeta, loadOtherBaseline };
