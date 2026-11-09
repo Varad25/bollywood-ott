@@ -4118,5 +4118,33 @@
   ],
   "runtime": "80 min",
   "videos": []
+ },
+ "movie|daayra|": {
+  "imdbId": "tt32634611",
+  "poster": "https://live.metahub.space/poster/small/tt32634611/img",
+  "background": "https://live.metahub.space/background/medium/tt32634611/img",
+  "imdbRating": "7.1",
+  "genres": [
+   "Crime",
+   "Drama"
+  ],
+  "runtime": "141 min",
+  "videos": []
+ },
+ "movie|student of the year: after dark|": {
+  "imdbId": null
+ },
+ "movie|jailer 2|": {
+  "imdbId": "tt33318732",
+  "poster": "https://images.metahub.space/poster/small/tt33318732/img",
+  "background": "https://images.metahub.space/background/medium/tt33318732/img",
+  "imdbRating": null,
+  "genres": [
+   "Action",
+   "Comedy",
+   "Crime"
+  ],
+  "runtime": "163 min",
+  "videos": []
  }
 }
