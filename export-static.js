@@ -34,13 +34,7 @@ fs.writeFileSync(path.join(OUT, ".nojekyll"), "");
 // manifest (GitHub Pages serves it at /<repo>/manifest.json)
 writeJson("manifest.json", manifest);
 
-// a tiny landing page so the repo's Pages root isn't a 404
-fs.writeFileSync(
-  path.join(OUT, "index.html"),
-  `<!doctype html><meta charset="utf-8"><title>Access Bollywood — New Titles (Stremio addon)</title>` +
-    `<p>Stremio addon manifest: <a href="manifest.json">manifest.json</a></p>` +
-    `<p>Install in Stremio by pasting this page's <code>manifest.json</code> URL into Add-ons.</p>`
-);
+fs.copyFileSync(path.join(__dirname, "landing-page.html"), path.join(OUT, "index.html"));
 
 let metaCount = 0;
 const seenMeta = new Set();
