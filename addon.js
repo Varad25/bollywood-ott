@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 /**
- * Access Bollywood — New Titles (Stremio addon)
+ * Access Bollywood (Stremio addon)
  *
- * One catalog ("Access Bollywood — New Titles", declared once per type):
+ * One catalog ("Access Bollywood", declared once per type):
  * the titles the daily Access Bollywood monitor actually alerted on
  * (Hindi-first filter already applied). Titles are IMDb-matched at build
  * time (enrich.js, via Cinemeta) so metas carry real IMDb IDs + posters;
@@ -226,8 +226,8 @@ function buildCatalogs() {
   // Series into different Discover tabs, so the single catalog is declared
   // once per type under the same name — one row in each tab.
   return [
-    { type: "movie", id: "ab-new-movie", name: "Access Bollywood — New Titles" },
-    { type: "series", id: "ab-new-series", name: "Access Bollywood — New Titles" },
+    { type: "movie", id: "ab-new-movie", name: "Access Bollywood" },
+    { type: "series", id: "ab-new-series", name: "Access Bollywood" },
   ];
 }
 
@@ -319,7 +319,7 @@ function findMeta(type, id) {
 const manifest = {
   id: "community.accessbollywood.newtitles",
   version: "1.4.0",
-  name: "Access Bollywood — New Titles",
+  name: "Access Bollywood",
   description:
     "New Indian movies & series on Netflix, Amazon Prime, Hulu, Zee5 and India OTT (SonyLIV, JioHotstar, …), from the daily monitor (Access Bollywood + Cinebuds + OTTweek, Hindi-first). IMDb-matched, with posters.",
   resources: ["catalog", "meta"],

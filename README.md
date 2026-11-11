@@ -1,4 +1,4 @@
-# Access Bollywood — New Titles (Stremio addon)
+# Access Bollywood (Stremio addon)
 
 One Stremio catalog of new Indian movies & series added to Netflix, Amazon
 Prime, Hulu and Zee5. Catalog only — no streams; each entry names the
