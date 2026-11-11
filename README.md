@@ -20,10 +20,3 @@ For manual installation:
    box, and press **Install**.
 
 The catalog updates automatically as new titles are added.
-
-## Landing page
-
-Edit `landing-page.html` to update the website. `npm run export` copies it to
-`docs/index.html` alongside the generated addon files, so catalog refreshes
-preserve the page. The install links and copy button use the manifest URL
-relative to the deployed page.
