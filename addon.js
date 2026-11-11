@@ -327,6 +327,10 @@ const manifest = {
   idPrefixes: ["ab:", "tt"],
   catalogs: buildCatalogs(),
   behaviorHints: { configurable: false },
+  stremioAddonsConfig: {
+    issuer: "https://stremio-addons.net",
+    signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..ctq-Jk-BVj7u6yowLQ7txQ.tJWr7edo9-Y6CKRAUA9MhyBHZfyxU_OXaGwyot6bniHyGGOgQE1Pz9HeQ5poRJsAlCDBUkv2MzRQYshSE_1kK50ILbfl8BjF5LrJAlrvhWdbAKQ3s67PghqK4F-DsFu2.wJ-DMXCPaX788NJrpn2_3Q",
+  },
 };
 
 // ---------- server ----------
