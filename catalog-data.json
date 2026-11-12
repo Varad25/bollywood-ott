@@ -665,8 +665,20 @@
     ]
   },
   "prime": {
-    "listUpdated": "November 9, 2026",
+    "listUpdated": "November 11, 2026",
     "titles": [
+      {
+        "id": "ab:amazonprime:jailer-2-2026",
+        "name": "Jailer 2",
+        "type": "movie",
+        "year": "2026",
+        "language": "Tamil",
+        "seasonNote": null,
+        "platform": "Amazon Prime",
+        "alertDate": null,
+        "listUpdated": "November 11, 2026",
+        "raw": "Jailer 2 (2026/Tamil)"
+      },
       {
         "id": "ab:amazonprime:comrade-kalyan-2026",
         "name": "Comrade Kalyan",
@@ -676,7 +688,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Comrade Kalyan (2026/Telugu)"
       },
       {
@@ -688,7 +700,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Mirzapur: The Movie (2026)"
       },
       {
@@ -700,7 +712,7 @@
         "seasonNote": "Season 1",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Chaar Yaar, Season 1 (2026)"
       },
       {
@@ -712,7 +724,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Lenin Pandiyan (2026/Tamil)"
       },
       {
@@ -724,7 +736,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Awarapan 2 (2026)"
       },
       {
@@ -736,7 +748,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Mahendragiri Vaaraahi (2026/Telugu)"
       },
       {
@@ -748,7 +760,7 @@
         "seasonNote": "Season 2",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Dupahiya, Season 2 (2026)"
       },
       {
@@ -760,7 +772,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Sardar 2 (2026/Tamil)"
       },
       {
@@ -772,26 +784,26 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 9, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Don't Be Shy (2026)"
-      },
-      {
-        "id": "ab:amazonprime:ramba-oorvasi-menaka-2026",
-        "name": "Ramba Oorvasi Menaka",
-        "type": "movie",
-        "year": "2026",
-        "language": "Telugu",
-        "seasonNote": null,
-        "platform": "Amazon Prime",
-        "alertDate": null,
-        "listUpdated": "November 9, 2026",
-        "raw": "Ramba Oorvasi Menaka (2026/Telugu)"
       }
     ]
   },
   "hulu": {
-    "listUpdated": "November 10, 2026",
+    "listUpdated": "November 11, 2026",
     "titles": [
+      {
+        "id": "ab:hulu:pushpaka-vimanam-2026",
+        "name": "Pushpaka Vimanam",
+        "type": "series",
+        "year": "2026",
+        "language": "Telugu",
+        "seasonNote": "Season 1",
+        "platform": "Hulu",
+        "alertDate": null,
+        "listUpdated": "November 11, 2026",
+        "raw": "Pushpaka Vimanam, Season 1 (2026/Telugu)*"
+      },
       {
         "id": "ab:hulu:love-always-2026",
         "name": "Love Always",
@@ -801,7 +813,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Love Always, Season 1 (2026/Tamil)*"
       },
       {
@@ -813,7 +825,7 @@
         "seasonNote": "Season 7",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "The Legend of Hanuman, Season 7 (2026/Hindi)*"
       },
       {
@@ -825,7 +837,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Varam, Season 1 (2026/Telugu)*"
       },
       {
@@ -837,7 +849,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Kappi Squad, Season 1 (2026/Malayalam)*"
       },
       {
@@ -849,7 +861,7 @@
         "seasonNote": "Season 9",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Koffee with Karan, Season 9 (2026/Hindi & English)"
       },
       {
@@ -861,7 +873,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Marathi Medium, Season 1 (2026/Marathi)"
       },
       {
@@ -873,7 +885,7 @@
         "seasonNote": null,
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "BB Bakshi (2026/Bengali)"
       },
       {
@@ -885,7 +897,7 @@
         "seasonNote": null,
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Raas (2025/Bengali)"
       },
       {
@@ -897,20 +909,8 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 10, 2026",
+        "listUpdated": "November 11, 2026",
         "raw": "Ashirbad, Season 1 (2026/Bengali)"
-      },
-      {
-        "id": "ab:hulu:kaid-parinda-saubhagyavati-bhava-2026",
-        "name": "Kaid Parinda: Saubhagyavati Bhava",
-        "type": "series",
-        "year": "2026",
-        "language": "Hindi",
-        "seasonNote": "Season 1",
-        "platform": "Hulu",
-        "alertDate": null,
-        "listUpdated": "November 10, 2026",
-        "raw": "Kaid Parinda: Saubhagyavati Bhava, Season 1 (2026/Hindi)"
       }
     ]
   },

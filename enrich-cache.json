@@ -4158,5 +4158,117 @@
  },
  "movie|sardaarji 3|": {
   "imdbId": null
+ },
+ "series|pushpaka vimanam|": {
+  "imdbId": "tt50089775",
+  "poster": "https://images.metahub.space/poster/small/tt50089775/img",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": null,
+  "videos": []
+ },
+ "movie|jailer 2 (*2026/tamil*)|": {
+  "imdbId": null
+ },
+ "movie|comrade kalyan (*2026/telugu*)|": {
+  "imdbId": null
+ },
+ "movie|mirzapur: the movie (*2026*)|": {
+  "imdbId": null
+ },
+ "series|chaar yaar|": {
+  "imdbId": "tt40856820",
+  "poster": "https://live.metahub.space/poster/small/tt40856820/img",
+  "background": "https://live.metahub.space/background/medium/tt40856820/img",
+  "imdbRating": "7.2",
+  "genres": [
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt40856820:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt40856820:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt40856820:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt40856820:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt40856820:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt40856820:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt40856820:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt40856820:1:8",
+    "season": 1,
+    "episode": 8
+   }
+  ]
+ },
+ "movie|lenin pandiyan (*2026/tamil*)|": {
+  "imdbId": null,
+  "error": "HTTP 504"
+ },
+ "movie|awarapan 2 (*2026*)|": {
+  "imdbId": null
+ },
+ "movie|mahendragiri vaaraahi (*2026/telugu*)|": {
+  "imdbId": null
+ },
+ "series|dupahiya|": {
+  "imdbId": null,
+  "error": "HTTP 504"
+ },
+ "movie|sardar 2 (*2026/tamil*)|": {
+  "imdbId": null
+ },
+ "movie|don’t be shy (*2026*)|": {
+  "imdbId": null
+ },
+ "series|pushpaka vimanam|2026": {
+  "imdbId": "tt50089775",
+  "poster": "https://images.metahub.space/poster/small/tt50089775/img",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": null,
+  "videos": []
+ },
+ "movie|jailer 2|2026": {
+  "imdbId": "tt33318732",
+  "poster": "https://images.metahub.space/poster/small/tt33318732/img",
+  "background": "https://images.metahub.space/background/medium/tt33318732/img",
+  "imdbRating": null,
+  "genres": [
+   "Action",
+   "Comedy",
+   "Crime"
+  ],
+  "runtime": "163 min",
+  "videos": []
  }
 }
