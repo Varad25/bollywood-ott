@@ -61,6 +61,7 @@ const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
 // (key format: type|lowercased name|year).
 const OVERRIDES = {
   "movie|manmarziyaan|2018": "tt5474036", // Cinemeta lists it as "Husband Material"
+  "movie|sardaarji 3|": "tt33022037", // Cinemeta search lists it as "Sardaar Ji 3"
 };
 
 async function enrichOne(t) {

@@ -4156,9 +4156,6 @@
   "runtime": null,
   "videos": []
  },
- "movie|sardaarji 3|": {
-  "imdbId": null
- },
  "series|pushpaka vimanam|": {
   "imdbId": "tt50089775",
   "poster": "https://images.metahub.space/poster/small/tt50089775/img",
@@ -4269,6 +4266,19 @@
    "Crime"
   ],
   "runtime": "163 min",
+  "videos": []
+ },
+ "movie|sardaarji 3|": {
+  "imdbId": "tt33022037",
+  "poster": "https://live.metahub.space/poster/small/tt33022037/img",
+  "background": "https://live.metahub.space/background/medium/tt33022037/img",
+  "imdbRating": "5.2",
+  "genres": [
+   "Adventure",
+   "Comedy",
+   "Horror"
+  ],
+  "runtime": "133 min",
   "videos": []
  }
 }
