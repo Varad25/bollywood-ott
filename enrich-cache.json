@@ -4294,10 +4294,6 @@
   "runtime": "179 min",
   "videos": []
  },
- "movie|anbil avan|": {
-  "imdbId": null,
-  "error": "HTTP 504"
- },
  "movie|parivarik manuranjan|": {
   "imdbId": "tt37200939",
   "poster": "https://live.metahub.space/poster/small/tt37200939/img",
@@ -4350,5 +4346,17 @@
  },
  "series|student of the year: after dark|2026": {
   "imdbId": null
+ },
+ "movie|anbil avan|": {
+  "imdbId": "tt35682855",
+  "poster": "https://live.metahub.space/poster/small/tt35682855/img",
+  "background": "https://live.metahub.space/background/medium/tt35682855/img",
+  "imdbRating": "9.5",
+  "genres": [
+   "Romance",
+   "Thriller"
+  ],
+  "runtime": "158 min",
+  "videos": []
  }
 }
