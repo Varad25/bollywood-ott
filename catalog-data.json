@@ -737,8 +737,20 @@
     ]
   },
   "prime": {
-    "listUpdated": "November 11, 2026",
+    "listUpdated": "November 13, 2026",
     "titles": [
+      {
+        "id": "ab:amazonprime:vibe-2026",
+        "name": "Vibe",
+        "type": "movie",
+        "year": "2026",
+        "language": null,
+        "seasonNote": null,
+        "platform": "Amazon Prime",
+        "alertDate": null,
+        "listUpdated": "November 13, 2026",
+        "raw": "Vibe (2026)"
+      },
       {
         "id": "ab:amazonprime:jailer-2-2026",
         "name": "Jailer 2",
@@ -748,7 +760,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Jailer 2 (2026/Tamil)"
       },
       {
@@ -760,7 +772,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Comrade Kalyan (2026/Telugu)"
       },
       {
@@ -772,7 +784,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Mirzapur: The Movie (2026)"
       },
       {
@@ -784,7 +796,7 @@
         "seasonNote": "Season 1",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Chaar Yaar, Season 1 (2026)"
       },
       {
@@ -796,7 +808,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Lenin Pandiyan (2026/Tamil)"
       },
       {
@@ -808,7 +820,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Awarapan 2 (2026)"
       },
       {
@@ -820,7 +832,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Mahendragiri Vaaraahi (2026/Telugu)"
       },
       {
@@ -832,7 +844,7 @@
         "seasonNote": "Season 2",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Dupahiya, Season 2 (2026)"
       },
       {
@@ -844,25 +856,13 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 11, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Sardar 2 (2026/Tamil)"
-      },
-      {
-        "id": "ab:amazonprime:don-t-be-shy-2026",
-        "name": "Don't Be Shy",
-        "type": "movie",
-        "year": "2026",
-        "language": null,
-        "seasonNote": null,
-        "platform": "Amazon Prime",
-        "alertDate": null,
-        "listUpdated": "November 11, 2026",
-        "raw": "Don't Be Shy (2026)"
       }
     ]
   },
   "hulu": {
-    "listUpdated": "November 12, 2026",
+    "listUpdated": "November 13, 2026",
     "titles": [
       {
         "id": "ab:hulu:student-of-the-year-after-dark-2026",
@@ -873,7 +873,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Student of the Year: After Dark, Season 1 (2026/Hindi)*"
       },
       {
@@ -885,7 +885,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Pushpaka Vimanam, Season 1 (2026/Telugu)*"
       },
       {
@@ -897,7 +897,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Love Always, Season 1 (2026/Tamil)*"
       },
       {
@@ -909,7 +909,7 @@
         "seasonNote": "Season 7",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "The Legend of Hanuman, Season 7 (2026/Hindi)*"
       },
       {
@@ -921,7 +921,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Varam, Season 1 (2026/Telugu)*"
       },
       {
@@ -933,7 +933,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Kappi Squad, Season 1 (2026/Malayalam)*"
       },
       {
@@ -945,7 +945,7 @@
         "seasonNote": "Season 9",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Koffee with Karan, Season 9 (2026/Hindi & English)"
       },
       {
@@ -957,7 +957,7 @@
         "seasonNote": "Season 1",
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Marathi Medium, Season 1 (2026/Marathi)"
       },
       {
@@ -969,7 +969,7 @@
         "seasonNote": null,
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "BB Bakshi (2026/Bengali)"
       },
       {
@@ -981,14 +981,50 @@
         "seasonNote": null,
         "platform": "Hulu",
         "alertDate": null,
-        "listUpdated": "November 12, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Raas (2025/Bengali)"
       }
     ]
   },
   "zee5": {
-    "listUpdated": "November 5, 2026",
+    "listUpdated": "November 13, 2026",
     "titles": [
+      {
+        "id": "ab:zee5:ghamela-2026",
+        "name": "Ghamela",
+        "type": "movie",
+        "year": "2026",
+        "language": "Hindi",
+        "seasonNote": null,
+        "platform": "Zee5",
+        "alertDate": null,
+        "listUpdated": "November 13, 2026",
+        "raw": "Ghamela (2026/Hindi)"
+      },
+      {
+        "id": "ab:zee5:mrigaya-1-5-2026",
+        "name": "Mrigaya 1.5",
+        "type": "movie",
+        "year": "2026",
+        "language": "Bengali",
+        "seasonNote": null,
+        "platform": "Zee5",
+        "alertDate": null,
+        "listUpdated": "November 13, 2026",
+        "raw": "Mrigaya 1.5 (2026/Bengali)*"
+      },
+      {
+        "id": "ab:zee5:blind-game-2026",
+        "name": "Blind Game",
+        "type": "movie",
+        "year": "2026",
+        "language": "Hindi",
+        "seasonNote": null,
+        "platform": "Zee5",
+        "alertDate": null,
+        "listUpdated": "November 13, 2026",
+        "raw": "Blind Game (2026/Hindi)*"
+      },
       {
         "id": "ab:zee5:last-man-in-tower-2026",
         "name": "Last Man in Tower",
@@ -998,7 +1034,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Last Man in Tower (2026/Hindi)"
       },
       {
@@ -1010,7 +1046,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Sumo Didi (2026/Hindi)*"
       },
       {
@@ -1022,7 +1058,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Jeet Ki Zid (2026/Hindi)"
       },
       {
@@ -1034,7 +1070,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Keu Bole Biplobi Keu Bole Dakat (2026/Bengali)"
       },
       {
@@ -1046,7 +1082,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Pooja Meri Jaan (2026/Hindi)*"
       },
       {
@@ -1058,7 +1094,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Jan Neta, aka \"Jana Nayagan\" (2026/Tamil, Hindi-dubbed)"
       },
       {
@@ -1070,32 +1106,8 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 5, 2026",
+        "listUpdated": "November 13, 2026",
         "raw": "Ghamasaan (2026/Hindi)*"
-      },
-      {
-        "id": "ab:zee5:awara-samsara-2026",
-        "name": "Awara Samsara",
-        "type": "movie",
-        "year": "2026",
-        "language": "Hindi",
-        "seasonNote": null,
-        "platform": "Zee5",
-        "alertDate": null,
-        "listUpdated": "November 5, 2026",
-        "raw": "Awara Samsara (2026/Hindi)"
-      },
-      {
-        "id": "ab:zee5:bandar-2026",
-        "name": "Bandar",
-        "type": "movie",
-        "year": "2026",
-        "language": "Hindi",
-        "seasonNote": null,
-        "platform": "Zee5",
-        "alertDate": null,
-        "listUpdated": "November 5, 2026",
-        "raw": "Bandar (2026/Hindi)"
       }
     ]
   }

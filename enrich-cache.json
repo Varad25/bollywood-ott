@@ -4358,5 +4358,36 @@
   ],
   "runtime": "158 min",
   "videos": []
+ },
+ "movie|vibe|2026": {
+  "imdbId": "tt40856286",
+  "poster": "https://images.metahub.space/poster/small/tt40856286/img",
+  "background": "https://images.metahub.space/background/medium/tt40856286/img",
+  "imdbRating": null,
+  "genres": [
+   "Action",
+   "Comedy",
+   "Thriller"
+  ],
+  "runtime": "145 min",
+  "videos": []
+ },
+ "movie|prem keetanu|2026": {
+  "imdbId": "tt44090550",
+  "poster": "https://live.metahub.space/poster/small/tt44090550/img",
+  "background": "https://live.metahub.space/background/medium/tt44090550/img",
+  "imdbRating": "3.7",
+  "genres": [
+   "Comedy",
+   "Romance"
+  ],
+  "runtime": "142 min",
+  "videos": []
+ },
+ "movie|ghamela|2026": {
+  "imdbId": null
+ },
+ "movie|mrigaya 1.5|2026": {
+  "imdbId": null
  }
 }
