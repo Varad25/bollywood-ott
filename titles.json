@@ -158,5 +158,20 @@
     "alertDate": "2026-11-14",
     "platform": "Zee5",
     "title": "Blind Game (2026/Hindi)"
+  },
+  {
+    "title": "Queen (2026)",
+    "platform": "JioHotstar",
+    "alertDate": "2026-11-16"
+  },
+  {
+    "title": "Campus Diaries, Season 2",
+    "platform": "Amazon Prime",
+    "alertDate": "2026-11-16"
+  },
+  {
+    "title": "Dhindora, Season 2 (2026)",
+    "platform": "Netflix",
+    "alertDate": "2026-11-16"
   }
 ]
