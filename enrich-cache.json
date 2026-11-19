@@ -4536,5 +4536,91 @@
   ],
   "runtime": "155 min",
   "videos": []
+ },
+ "movie|#cult|": {
+  "imdbId": "tt36915004",
+  "poster": "https://live.metahub.space/poster/small/tt36915004/img",
+  "background": "https://live.metahub.space/background/medium/tt36915004/img",
+  "imdbRating": "4.6",
+  "genres": [
+   "Horror",
+   "Action",
+   "Thriller"
+  ],
+  "runtime": "152 min",
+  "videos": []
+ },
+ "movie|418|": {
+  "imdbId": "tt38984184",
+  "poster": "https://live.metahub.space/poster/small/tt38984184/img",
+  "background": "https://live.metahub.space/background/medium/tt38984184/img",
+  "imdbRating": "8.7",
+  "genres": [
+   "Horror",
+   "Thriller"
+  ],
+  "runtime": "157 min",
+  "videos": []
+ },
+ "movie|dulhaniya le aaeegi|": {
+  "imdbId": "tt37809949",
+  "poster": "https://images.metahub.space/poster/small/tt37809949/img",
+  "background": "https://images.metahub.space/background/medium/tt37809949/img",
+  "imdbRating": null,
+  "genres": [
+   "Comedy"
+  ],
+  "runtime": "127 min",
+  "videos": []
+ },
+ "movie|418|2026": {
+  "imdbId": "tt38984184",
+  "poster": "https://live.metahub.space/poster/small/tt38984184/img",
+  "background": "https://live.metahub.space/background/medium/tt38984184/img",
+  "imdbRating": "8.7",
+  "genres": [
+   "Horror",
+   "Thriller"
+  ],
+  "runtime": "157 min",
+  "videos": []
+ },
+ "movie|haiku|2026": {
+  "imdbId": "tt39239818",
+  "poster": "https://live.metahub.space/poster/small/tt39239818/img",
+  "background": "https://live.metahub.space/background/medium/tt39239818/img",
+  "imdbRating": "7.8",
+  "genres": [
+   "Romance",
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "143 min",
+  "videos": []
+ },
+ "movie|#cult|2026": {
+  "imdbId": "tt36915004",
+  "poster": "https://live.metahub.space/poster/small/tt36915004/img",
+  "background": "https://live.metahub.space/background/medium/tt36915004/img",
+  "imdbRating": "4.6",
+  "genres": [
+   "Horror",
+   "Action",
+   "Thriller"
+  ],
+  "runtime": "152 min",
+  "videos": []
+ },
+ "movie|premada oorali|2026": {
+  "imdbId": "tt33381528",
+  "poster": "https://live.metahub.space/poster/small/tt33381528/img",
+  "background": "https://live.metahub.space/background/medium/tt33381528/img",
+  "imdbRating": "8.1",
+  "genres": [
+   "Family",
+   "Drama"
+  ],
+  "runtime": "155 min",
+  "videos": []
  }
 }

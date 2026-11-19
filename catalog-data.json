@@ -1,7 +1,31 @@
 {
   "netflix": {
-    "listUpdated": "November 16, 2026",
+    "listUpdated": "November 19, 2026",
     "titles": [
+      {
+        "id": "ab:netflix:418-2026",
+        "name": "418",
+        "type": "movie",
+        "year": "2026",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 19, 2026",
+        "raw": "418 (2026/Telugu)"
+      },
+      {
+        "id": "ab:netflix:haiku-2026",
+        "name": "Haiku",
+        "type": "movie",
+        "year": "2026",
+        "language": "Tamil",
+        "seasonNote": null,
+        "platform": "Netflix",
+        "alertDate": null,
+        "listUpdated": "November 19, 2026",
+        "raw": "Haiku (2026/Tamil)"
+      },
       {
         "id": "ab:netflix:daayra-2026",
         "name": "Daayra",
@@ -11,7 +35,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Daayra (2026)"
       },
       {
@@ -23,7 +47,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Ranabaali (2026/Telugu)"
       },
       {
@@ -35,7 +59,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Chhota Bheem: Dragons, Demons and Ghosts, Season 1 (2026)"
       },
       {
@@ -47,7 +71,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Chhota Bheem: Karaak & the Dark Days, Season 1 (2026)"
       },
       {
@@ -59,7 +83,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Chhota Bheem: Kirmada & Bhakshak Special, Season 1 (2026)"
       },
       {
@@ -71,7 +95,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Chhota Bheem: Mahashaitaan Marathon, Season 1 (2026)"
       },
       {
@@ -83,7 +107,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Rock On 2 (2016)"
       },
       {
@@ -95,7 +119,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Kauriburi: The Cursed Temple, Season 1 (2026)"
       },
       {
@@ -107,7 +131,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Dilwali Diwali (2026)*"
       },
       {
@@ -119,7 +143,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Attarintiki Daredi (2013/Telugu)"
       },
       {
@@ -131,7 +155,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Dohchay (2015/Telugu)"
       },
       {
@@ -143,7 +167,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Dongala Muta (2011/Telugu)"
       },
       {
@@ -155,7 +179,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Eega (2012/Telugu)"
       },
       {
@@ -167,7 +191,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Fidaa (2017/Telugu)"
       },
       {
@@ -179,7 +203,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Kushi (2001/Telugu)"
       },
       {
@@ -191,7 +215,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Namo Venkatesa (2010/Telugu)"
       },
       {
@@ -203,7 +227,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Ramayya Vasthavayya (2013/Telugu)"
       },
       {
@@ -215,7 +239,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Ready (2008/Telugu)"
       },
       {
@@ -227,7 +251,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Sahasam Swasaga Sagipo (2016/Telugu)"
       },
       {
@@ -239,7 +263,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Seethamma Vakitlo Sirimalle Chettu (2013/Telugu)"
       },
       {
@@ -251,7 +275,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Shirdi Sai (2012/Telugu)"
       },
       {
@@ -263,7 +287,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Sindhooram (1997/Telugu)"
       },
       {
@@ -275,7 +299,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Thammudu (1999/Telugu)"
       },
       {
@@ -287,7 +311,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Yevadu (2014/Telugu)"
       },
       {
@@ -299,7 +323,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Yogi (2007/Telugu)"
       },
       {
@@ -311,7 +335,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Yuddham Sharanam (2017/Telugu)"
       },
       {
@@ -323,7 +347,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Manmarziyaan (2018)"
       },
       {
@@ -335,7 +359,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Raanjhanaa (2013)"
       },
       {
@@ -347,7 +371,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Rockstar (2011)"
       },
       {
@@ -359,7 +383,7 @@
         "seasonNote": "Season 20",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Chhota Bheem, Season 20 (2026)"
       },
       {
@@ -371,7 +395,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Chhota Bheem: Damyaan and Co., Season 1 (2026)"
       },
       {
@@ -383,7 +407,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Chhota Bheem: Dholakpur Dhamaka, Season 1 (2026)"
       },
       {
@@ -395,7 +419,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Akka, Season 1 (2026)*"
       },
       {
@@ -407,7 +431,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "How to Ruin Diwali, Season 1 (2026)*"
       },
       {
@@ -419,7 +443,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Meethe Mein Kya Hai (2026)"
       },
       {
@@ -431,7 +455,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Avarachan & Sons (2026/Malayalam)"
       },
       {
@@ -443,7 +467,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Don't Trouble the Trouble (2026/Telugu)"
       },
       {
@@ -455,7 +479,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Sigma (2026/Tamil)"
       },
       {
@@ -467,7 +491,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Sub-Inspector Yugandhar (2026/Telugu)"
       },
       {
@@ -479,7 +503,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Baththa (2026/Tamil)"
       },
       {
@@ -491,7 +515,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Dhindora, Season 1 (2021)"
       },
       {
@@ -503,7 +527,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Gajab Raat (2026)*"
       },
       {
@@ -515,7 +539,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Dhoomakethu (2026/Malayalam)"
       },
       {
@@ -527,7 +551,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Dorothy (2026/Tamil)"
       },
       {
@@ -539,7 +563,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "The Paradise (2026/Telugu)"
       },
       {
@@ -551,7 +575,7 @@
         "seasonNote": "Season 1",
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Matargashti, Season 1 (2026)"
       },
       {
@@ -563,7 +587,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Baar Baar Dekho (2016)"
       },
       {
@@ -575,7 +599,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "English Vinglish (2012)"
       },
       {
@@ -587,7 +611,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Gold (2018)"
       },
       {
@@ -599,7 +623,7 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Gully Boy (2019)"
       },
       {
@@ -611,134 +635,38 @@
         "seasonNote": null,
         "platform": "Netflix",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Salaam-e-Ishq (2006)"
-      },
-      {
-        "id": "ab:netflix:anjaan-saaye-2026",
-        "name": "Anjaan Saaye",
-        "type": "series",
-        "year": "2026",
-        "language": null,
-        "seasonNote": "Seasons 1-2",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Anjaan Saaye, Seasons 1-2 (2026)"
-      },
-      {
-        "id": "ab:netflix:eken-sirji-jungle-mein-2023",
-        "name": "Eken Sirji Jungle Mein",
-        "type": "series",
-        "year": "2023",
-        "language": null,
-        "seasonNote": "Season 1",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Eken Sirji Jungle Mein, Season 1 (2023)"
-      },
-      {
-        "id": "ab:netflix:eken-sirji-purulia-mein-2026",
-        "name": "Eken Sirji Purulia Mein",
-        "type": "series",
-        "year": "2026",
-        "language": null,
-        "seasonNote": "Season 1",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Eken Sirji Purulia Mein, Season 1 (2026)"
-      },
-      {
-        "id": "ab:netflix:eken-sirji-samundar-mein-2025",
-        "name": "Eken Sirji Samundar Mein",
-        "type": "series",
-        "year": "2025",
-        "language": null,
-        "seasonNote": "Season 1",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Eken Sirji Samundar Mein, Season 1 (2025)"
-      },
-      {
-        "id": "ab:netflix:lajja-2026",
-        "name": "Lajja",
-        "type": "series",
-        "year": "2026",
-        "language": null,
-        "seasonNote": "Seasons 1-2",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Lajja, Seasons 1-2 (2026)"
-      },
-      {
-        "id": "ab:netflix:madam-inspector-2026",
-        "name": "Madam Inspector",
-        "type": "series",
-        "year": "2026",
-        "language": null,
-        "seasonNote": "Season 1",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Madam Inspector, Season 1 (2026)"
-      },
-      {
-        "id": "ab:netflix:sampurna-2023",
-        "name": "Sampurna",
-        "type": "series",
-        "year": "2023",
-        "language": null,
-        "seasonNote": "Seasons 1-2",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Sampurna, Seasons 1-2 (2023)"
-      },
-      {
-        "id": "ab:netflix:roadies-rebirth-2026",
-        "name": "Roadies: Rebirth",
-        "type": "series",
-        "year": "2026",
-        "language": null,
-        "seasonNote": "Season 1",
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Roadies: Rebirth, Season 1 (2026)"
-      },
-      {
-        "id": "ab:netflix:enna-vilai-2026",
-        "name": "Enna Vilai",
-        "type": "movie",
-        "year": "2026",
-        "language": "Tamil",
-        "seasonNote": null,
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Enna Vilai (2026/Tamil)"
-      },
-      {
-        "id": "ab:netflix:sumukhi-suresh-hoemonal-2026",
-        "name": "Sumukhi Suresh: Hoemonal",
-        "type": "movie",
-        "year": "2026",
-        "language": null,
-        "seasonNote": null,
-        "platform": "Netflix",
-        "alertDate": null,
-        "listUpdated": "November 16, 2026",
-        "raw": "Sumukhi Suresh: Hoemonal (2026)*"
       }
     ]
   },
   "prime": {
-    "listUpdated": "November 16, 2026",
+    "listUpdated": "November 18, 2026",
     "titles": [
+      {
+        "id": "ab:amazonprime:cult-2026",
+        "name": "#Cult",
+        "type": "movie",
+        "year": "2026",
+        "language": "Telugu",
+        "seasonNote": null,
+        "platform": "Amazon Prime",
+        "alertDate": null,
+        "listUpdated": "November 18, 2026",
+        "raw": "#Cult (2026/Telugu)"
+      },
+      {
+        "id": "ab:amazonprime:premada-oorali-2026",
+        "name": "Premada Oorali",
+        "type": "movie",
+        "year": "2026",
+        "language": "Kannada",
+        "seasonNote": null,
+        "platform": "Amazon Prime",
+        "alertDate": null,
+        "listUpdated": "November 18, 2026",
+        "raw": "Premada Oorali (2026/Kannada)"
+      },
       {
         "id": "ab:amazonprime:vibe-2026",
         "name": "Vibe",
@@ -748,7 +676,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Vibe (2026)"
       },
       {
@@ -760,7 +688,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Jailer 2 (2026/Tamil)"
       },
       {
@@ -772,7 +700,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Comrade Kalyan (2026/Telugu)"
       },
       {
@@ -784,7 +712,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Mirzapur: The Movie (2026)"
       },
       {
@@ -796,7 +724,7 @@
         "seasonNote": "Season 1",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Chaar Yaar, Season 1 (2026)"
       },
       {
@@ -808,7 +736,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Lenin Pandiyan (2026/Tamil)"
       },
       {
@@ -820,7 +748,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Awarapan 2 (2026)"
       },
       {
@@ -832,7 +760,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Mahendragiri Vaaraahi (2026/Telugu)"
       },
       {
@@ -844,7 +772,7 @@
         "seasonNote": "Season 2",
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Dupahiya, Season 2 (2026)"
       },
       {
@@ -856,7 +784,7 @@
         "seasonNote": null,
         "platform": "Amazon Prime",
         "alertDate": null,
-        "listUpdated": "November 16, 2026",
+        "listUpdated": "November 18, 2026",
         "raw": "Sardar 2 (2026/Tamil)"
       }
     ]
@@ -987,7 +915,7 @@
     ]
   },
   "zee5": {
-    "listUpdated": "November 17, 2026",
+    "listUpdated": "November 19, 2026",
     "titles": [
       {
         "id": "ab:zee5:ghamela-2026",
@@ -998,7 +926,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Ghamela (2026/Hindi)"
       },
       {
@@ -1010,7 +938,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Mrigaya 1.5 (2026/Bengali)*"
       },
       {
@@ -1022,7 +950,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Blind Game (2026/Hindi)*"
       },
       {
@@ -1034,7 +962,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Last Man in Tower (2026/Hindi)"
       },
       {
@@ -1046,7 +974,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Sumo Didi (2026/Hindi)*"
       },
       {
@@ -1058,7 +986,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Jeet Ki Zid (2026/Hindi)"
       },
       {
@@ -1070,7 +998,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Keu Bole Biplobi Keu Bole Dakat (2026/Bengali)"
       },
       {
@@ -1082,7 +1010,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Pooja Meri Jaan (2026/Hindi)*"
       },
       {
@@ -1094,7 +1022,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Jan Neta, aka \"Jana Nayagan\" (2026/Tamil, Hindi-dubbed)"
       },
       {
@@ -1106,7 +1034,7 @@
         "seasonNote": null,
         "platform": "Zee5",
         "alertDate": null,
-        "listUpdated": "November 17, 2026",
+        "listUpdated": "November 19, 2026",
         "raw": "Ghamasaan (2026/Hindi)*"
       }
     ]
