@@ -4622,5 +4622,149 @@
   ],
   "runtime": "155 min",
   "videos": []
+ },
+ "series|manglik|2026": {
+  "imdbId": "tt18969270",
+  "poster": "https://images.metahub.space/poster/small/tt18969270/img",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt18969270:1:1",
+    "season": 1
+   },
+   {
+    "id": "tt18969270:1:2",
+    "season": 1
+   },
+   {
+    "id": "tt18969270:1:3",
+    "season": 1
+   },
+   {
+    "id": "tt18969270:1:4",
+    "season": 1
+   }
+  ]
+ },
+ "movie|the vvaan: force of the forest|2026": {
+  "imdbId": null
+ },
+ "movie|nayyi navelli|": {
+  "imdbId": "tt40855841",
+  "poster": "https://live.metahub.space/poster/small/tt40855841/img",
+  "background": "https://live.metahub.space/background/medium/tt40855841/img",
+  "imdbRating": "5.4",
+  "genres": [
+   "Adventure",
+   "Fantasy",
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": "138 min",
+  "videos": []
+ },
+ "movie|lo chudail chali sasural|": {
+  "imdbId": null
+ },
+ "movie|last meal|": {
+  "imdbId": "tt50016818",
+  "poster": "https://live.metahub.space/poster/small/tt50016818/img",
+  "background": "https://live.metahub.space/background/medium/tt50016818/img",
+  "imdbRating": null,
+  "genres": [
+   "Romance",
+   "Drama"
+  ],
+  "runtime": "122 min",
+  "videos": []
+ },
+ "movie|don’t trouble the trouble|2026": {
+  "imdbId": "tt31841170",
+  "poster": "https://live.metahub.space/poster/small/tt31841170/img",
+  "background": "https://live.metahub.space/background/medium/tt31841170/img",
+  "imdbRating": "5.7",
+  "genres": [
+   "Fantasy",
+   "Drama",
+   "Action"
+  ],
+  "runtime": "156 min",
+  "videos": []
+ },
+ "series|mr & mrs office|2026": {
+  "imdbId": "tt50135636",
+  "poster": "https://live.metahub.space/poster/small/tt50135636/img",
+  "background": "https://live.metahub.space/background/medium/tt50135636/img",
+  "imdbRating": null,
+  "genres": [
+   "Comedy",
+   "Drama"
+  ],
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt50135636:1:1",
+    "season": 1,
+    "episode": 1
+   },
+   {
+    "id": "tt50135636:1:2",
+    "season": 1,
+    "episode": 2
+   },
+   {
+    "id": "tt50135636:1:3",
+    "season": 1,
+    "episode": 3
+   },
+   {
+    "id": "tt50135636:1:4",
+    "season": 1,
+    "episode": 4
+   },
+   {
+    "id": "tt50135636:1:5",
+    "season": 1,
+    "episode": 5
+   },
+   {
+    "id": "tt50135636:1:6",
+    "season": 1,
+    "episode": 6
+   },
+   {
+    "id": "tt50135636:1:7",
+    "season": 1,
+    "episode": 7
+   },
+   {
+    "id": "tt50135636:1:8",
+    "season": 1,
+    "episode": 8
+   },
+   {
+    "id": "tt50135636:1:9",
+    "season": 1,
+    "episode": 9
+   },
+   {
+    "id": "tt50135636:1:10",
+    "season": 1,
+    "episode": 10
+   },
+   {
+    "id": "tt50135636:1:11",
+    "season": 1,
+    "episode": 11
+   },
+   {
+    "id": "tt50135636:1:12",
+    "season": 1,
+    "episode": 12
+   }
+  ]
  }
 }
