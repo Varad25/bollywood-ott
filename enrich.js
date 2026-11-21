@@ -62,6 +62,8 @@ const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
 const OVERRIDES = {
   "movie|manmarziyaan|2018": "tt5474036", // Cinemeta lists it as "Husband Material"
   "movie|sardaarji 3|": "tt33022037", // Cinemeta search lists it as "Sardaar Ji 3"
+  "movie|the vvaan: force of the forest|2026": "tt34498564", // Cinemeta/IMDb spell it "Forrest" (double r)
+  "movie|the vvaan|2026": "tt34498564", // short-name entry in other-baseline.json, same film
 };
 
 async function enrichOne(t) {

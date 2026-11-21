@@ -2723,9 +2723,6 @@
   "runtime": null,
   "videos": []
  },
- "movie|the vvaan|2026": {
-  "imdbId": null
- },
  "movie|akka|2026": {
   "imdbId": null
  },
@@ -4649,9 +4646,6 @@
    }
   ]
  },
- "movie|the vvaan: force of the forest|2026": {
-  "imdbId": null
- },
  "movie|nayyi navelli|": {
   "imdbId": "tt40855841",
   "poster": "https://live.metahub.space/poster/small/tt40855841/img",
@@ -4665,9 +4659,6 @@
   ],
   "runtime": "138 min",
   "videos": []
- },
- "movie|lo chudail chali sasural|": {
-  "imdbId": null
  },
  "movie|last meal|": {
   "imdbId": "tt50016818",
@@ -4766,5 +4757,40 @@
     "episode": 12
    }
   ]
+ },
+ "movie|the vvaan: force of the forest|2026": {
+  "imdbId": "tt34498564",
+  "poster": "https://live.metahub.space/poster/small/tt34498564/img",
+  "background": "https://live.metahub.space/background/medium/tt34498564/img",
+  "imdbRating": "5.9",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Thriller"
+  ],
+  "runtime": "136 min",
+  "videos": []
+ },
+ "series|lo chudail chali sasural|": {
+  "imdbId": "tt43636966",
+  "poster": "https://images.metahub.space/poster/small/tt43636966/img",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": null,
+  "videos": []
+ },
+ "movie|the vvaan|2026": {
+  "imdbId": "tt34498564",
+  "poster": "https://live.metahub.space/poster/small/tt34498564/img",
+  "background": "https://live.metahub.space/background/medium/tt34498564/img",
+  "imdbRating": "5.9",
+  "genres": [
+   "Action",
+   "Adventure",
+   "Thriller"
+  ],
+  "runtime": "136 min",
+  "videos": []
  }
 }
