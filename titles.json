@@ -1,227 +1,232 @@
 [
-  {
-    "alertDate": "2026-10-28",
-    "platform": "Netflix",
-    "title": "Baththa (2026/Tamil)"
-  },
-  {
-    "alertDate": "2026-10-28",
-    "platform": "Netflix",
-    "title": "Dhindora, Season 1 (2021)"
-  },
-  {
-    "alertDate": "2026-10-30",
-    "platform": "Netflix",
-    "title": "Akka, Season 1 (2026)"
-  },
-  {
-    "alertDate": "2026-10-30",
-    "platform": "Netflix",
-    "title": "How to Ruin Diwali, Season 1 (2026)"
-  },
-  {
-    "alertDate": "2026-10-30",
-    "platform": "Netflix",
-    "title": "Meethe Mein Kya Hai (2026)"
-  },
-  {
-    "alertDate": "2026-10-30",
-    "platform": "Amazon Prime",
-    "title": "Mirzapur: The Movie (2026)"
-  },
-  {
-    "alertDate": "2026-10-30",
-    "platform": "Hulu",
-    "title": "Love Always, Season 1 (2026/Tamil, Hindi-dubbed)"
-  },
-  {
-    "alertDate": "2026-11-03",
-    "platform": "Netflix",
-    "title": "Manmarziyaan (2018)"
-  },
-  {
-    "alertDate": "2026-11-03",
-    "platform": "Netflix",
-    "title": "Raanjhanaa (2013)"
-  },
-  {
-    "alertDate": "2026-11-03",
-    "platform": "Netflix",
-    "title": "Rockstar (2011)"
-  },
-  {
-    "alertDate": "2026-11-03",
-    "platform": "Netflix",
-    "title": "Chhota Bheem, Season 20 (2026)"
-  },
-  {
-    "alertDate": "2026-11-03",
-    "platform": "Netflix",
-    "title": "Chhota Bheem: Damyaan and Co., Season 1 (2026)"
-  },
-  {
-    "alertDate": "2026-11-03",
-    "platform": "Netflix",
-    "title": "Chhota Bheem: Dholakpur Dhamaka, Season 1 (2026)"
-  },
-  {
-    "alertDate": "2026-11-05",
-    "platform": "Netflix",
-    "title": "Dilwali Diwali (2026)"
-  },
-  {
-    "alertDate": "2026-11-06",
-    "platform": "Zee5",
-    "title": "Last Man in Tower (2026/Hindi)"
-  },
-  {
-    "title": "Eega (2012/Telugu)",
-    "platform": "Netflix",
-    "alertDate": "2026-11-07"
-  },
-  {
-    "title": "Attarintiki Daredi (2013/Telugu)",
-    "platform": "Netflix",
-    "alertDate": "2026-11-07"
-  },
-  {
-    "title": "Seethamma Vakitlo Sirimalle Chettu (2013/Telugu)",
-    "platform": "Netflix",
-    "alertDate": "2026-11-07"
-  },
-  {
-    "title": "Portrait of Many Faces",
-    "platform": "Eros Now Select Apple TV channel",
-    "alertDate": "2026-11-08"
-  },
-  {
-    "title": "Daayra",
-    "platform": "Netflix",
-    "alertDate": "2026-11-09"
-  },
-  {
-    "title": "Student of the Year: After Dark",
-    "platform": "JioHotstar",
-    "alertDate": "2026-11-09"
-  },
-  {
-    "title": "Jailer 2",
-    "platform": "Amazon Prime",
-    "alertDate": "2026-11-09"
-  },
-  {
-    "title": "Rock On 2 (2016)",
-    "platform": "Netflix",
-    "alertDate": "2026-11-11"
-  },
-  {
-    "title": "Sardaarji 3",
-    "platform": "Chaupal",
-    "alertDate": "2026-11-11"
-  },
-  {
-    "title": "Pushpaka Vimanam, Season 1",
-    "platform": "Hulu",
-    "alertDate": "2026-11-12"
-  },
-  {
-    "title": "Ranabaali",
-    "platform": "Netflix",
-    "alertDate": "2026-11-13"
-  },
-  {
-    "title": "Anbil Avan",
-    "platform": "SonyLIV",
-    "alertDate": "2026-11-13"
-  },
-  {
-    "title": "Parivarik ManuRanjan",
-    "platform": "SonyLIV",
-    "alertDate": "2026-11-13"
-  },
-  {
-    "alertDate": "2026-11-14",
-    "platform": "Amazon Prime",
-    "title": "Vibe (2026)"
-  },
-  {
-    "alertDate": "2026-11-14",
-    "platform": "Amazon Prime",
-    "title": "Prem Keetanu (2026)"
-  },
-  {
-    "alertDate": "2026-11-14",
-    "platform": "Zee5",
-    "title": "Ghamela (2026/Hindi)"
-  },
-  {
-    "alertDate": "2026-11-14",
-    "platform": "Zee5",
-    "title": "Blind Game (2026/Hindi)"
-  },
-  {
-    "title": "Queen (2026)",
-    "platform": "JioHotstar",
-    "alertDate": "2026-11-16"
-  },
-  {
-    "title": "Campus Diaries, Season 2",
-    "platform": "Amazon Prime",
-    "alertDate": "2026-11-16"
-  },
-  {
-    "title": "Dhindora, Season 2 (2026)",
-    "platform": "Netflix",
-    "alertDate": "2026-11-16"
-  },
-  {
-    "title": "Premada Oorali",
-    "platform": "Amazon Prime",
-    "alertDate": "2026-11-17"
-  },
-  {
-    "title": "#Cult",
-    "platform": "Amazon Prime",
-    "alertDate": "2026-11-19"
-  },
-  {
-    "title": "418",
-    "platform": "Netflix",
-    "alertDate": "2026-11-19"
-  },
-  {
-    "title": "Dulhaniya Le Aaeegi",
-    "platform": "JioHotstar",
-    "alertDate": "2026-11-19"
-  },
-  {
-    "title": "Manglik, Season 1 (2026)",
-    "platform": "Netflix",
-    "alertDate": "2026-11-20"
-  },
-  {
-    "title": "The Vvaan: Force of the Forest (2026)",
-    "platform": "Amazon Prime",
-    "alertDate": "2026-11-20"
-  },
-  {
-    "title": "Nayyi Navelli",
-    "platform": "Amazon Prime",
-    "alertDate": "2026-11-20"
-  },
-  {
-    "title": "Lo Chudail Chali Sasural, Season 1",
-    "platform": "SonyLIV",
-    "alertDate": "2026-11-20"
-  },
-  {
-    "title": "Last meal",
-    "platform": "Amazon Prime",
-    "alertDate": "2026-11-20"
-  },
-  {
-    "title": "Teen Tigada, Season 1",
-    "platform": "Zee5",
-    "alertDate": "2026-11-21"
-  }
+ {
+  "alertDate": "2026-10-28",
+  "platform": "Netflix",
+  "title": "Baththa (2026/Tamil)"
+ },
+ {
+  "alertDate": "2026-10-28",
+  "platform": "Netflix",
+  "title": "Dhindora, Season 1 (2021)"
+ },
+ {
+  "alertDate": "2026-10-30",
+  "platform": "Netflix",
+  "title": "Akka, Season 1 (2026)"
+ },
+ {
+  "alertDate": "2026-10-30",
+  "platform": "Netflix",
+  "title": "How to Ruin Diwali, Season 1 (2026)"
+ },
+ {
+  "alertDate": "2026-10-30",
+  "platform": "Netflix",
+  "title": "Meethe Mein Kya Hai (2026)"
+ },
+ {
+  "alertDate": "2026-10-30",
+  "platform": "Amazon Prime",
+  "title": "Mirzapur: The Movie (2026)"
+ },
+ {
+  "alertDate": "2026-10-30",
+  "platform": "Hulu",
+  "title": "Love Always, Season 1 (2026/Tamil, Hindi-dubbed)"
+ },
+ {
+  "alertDate": "2026-11-03",
+  "platform": "Netflix",
+  "title": "Manmarziyaan (2018)"
+ },
+ {
+  "alertDate": "2026-11-03",
+  "platform": "Netflix",
+  "title": "Raanjhanaa (2013)"
+ },
+ {
+  "alertDate": "2026-11-03",
+  "platform": "Netflix",
+  "title": "Rockstar (2011)"
+ },
+ {
+  "alertDate": "2026-11-03",
+  "platform": "Netflix",
+  "title": "Chhota Bheem, Season 20 (2026)"
+ },
+ {
+  "alertDate": "2026-11-03",
+  "platform": "Netflix",
+  "title": "Chhota Bheem: Damyaan and Co., Season 1 (2026)"
+ },
+ {
+  "alertDate": "2026-11-03",
+  "platform": "Netflix",
+  "title": "Chhota Bheem: Dholakpur Dhamaka, Season 1 (2026)"
+ },
+ {
+  "alertDate": "2026-11-05",
+  "platform": "Netflix",
+  "title": "Dilwali Diwali (2026)"
+ },
+ {
+  "alertDate": "2026-11-06",
+  "platform": "Zee5",
+  "title": "Last Man in Tower (2026/Hindi)"
+ },
+ {
+  "title": "Eega (2012/Telugu)",
+  "platform": "Netflix",
+  "alertDate": "2026-11-07"
+ },
+ {
+  "title": "Attarintiki Daredi (2013/Telugu)",
+  "platform": "Netflix",
+  "alertDate": "2026-11-07"
+ },
+ {
+  "title": "Seethamma Vakitlo Sirimalle Chettu (2013/Telugu)",
+  "platform": "Netflix",
+  "alertDate": "2026-11-07"
+ },
+ {
+  "title": "Portrait of Many Faces",
+  "platform": "Eros Now Select Apple TV channel",
+  "alertDate": "2026-11-08"
+ },
+ {
+  "title": "Daayra",
+  "platform": "Netflix",
+  "alertDate": "2026-11-09"
+ },
+ {
+  "title": "Student of the Year: After Dark",
+  "platform": "JioHotstar",
+  "alertDate": "2026-11-09"
+ },
+ {
+  "title": "Jailer 2",
+  "platform": "Amazon Prime",
+  "alertDate": "2026-11-09"
+ },
+ {
+  "title": "Rock On 2 (2016)",
+  "platform": "Netflix",
+  "alertDate": "2026-11-11"
+ },
+ {
+  "title": "Sardaarji 3",
+  "platform": "Chaupal",
+  "alertDate": "2026-11-11"
+ },
+ {
+  "title": "Pushpaka Vimanam, Season 1",
+  "platform": "Hulu",
+  "alertDate": "2026-11-12"
+ },
+ {
+  "title": "Ranabaali",
+  "platform": "Netflix",
+  "alertDate": "2026-11-13"
+ },
+ {
+  "title": "Anbil Avan",
+  "platform": "SonyLIV",
+  "alertDate": "2026-11-13"
+ },
+ {
+  "title": "Parivarik ManuRanjan",
+  "platform": "SonyLIV",
+  "alertDate": "2026-11-13"
+ },
+ {
+  "alertDate": "2026-11-14",
+  "platform": "Amazon Prime",
+  "title": "Vibe (2026)"
+ },
+ {
+  "alertDate": "2026-11-14",
+  "platform": "Amazon Prime",
+  "title": "Prem Keetanu (2026)"
+ },
+ {
+  "alertDate": "2026-11-14",
+  "platform": "Zee5",
+  "title": "Ghamela (2026/Hindi)"
+ },
+ {
+  "alertDate": "2026-11-14",
+  "platform": "Zee5",
+  "title": "Blind Game (2026/Hindi)"
+ },
+ {
+  "title": "Queen (2026)",
+  "platform": "JioHotstar",
+  "alertDate": "2026-11-16"
+ },
+ {
+  "title": "Campus Diaries, Season 2",
+  "platform": "Amazon Prime",
+  "alertDate": "2026-11-16"
+ },
+ {
+  "title": "Dhindora, Season 2 (2026)",
+  "platform": "Netflix",
+  "alertDate": "2026-11-16"
+ },
+ {
+  "title": "Premada Oorali",
+  "platform": "Amazon Prime",
+  "alertDate": "2026-11-17"
+ },
+ {
+  "title": "#Cult",
+  "platform": "Amazon Prime",
+  "alertDate": "2026-11-19"
+ },
+ {
+  "title": "418",
+  "platform": "Netflix",
+  "alertDate": "2026-11-19"
+ },
+ {
+  "title": "Dulhaniya Le Aaeegi",
+  "platform": "JioHotstar",
+  "alertDate": "2026-11-19"
+ },
+ {
+  "title": "Manglik, Season 1 (2026)",
+  "platform": "Netflix",
+  "alertDate": "2026-11-20"
+ },
+ {
+  "title": "The Vvaan: Force of the Forest (2026)",
+  "platform": "Amazon Prime",
+  "alertDate": "2026-11-20"
+ },
+ {
+  "title": "Nayyi Navelli",
+  "platform": "Amazon Prime",
+  "alertDate": "2026-11-20"
+ },
+ {
+  "title": "Lo Chudail Chali Sasural, Season 1",
+  "platform": "SonyLIV",
+  "alertDate": "2026-11-20"
+ },
+ {
+  "title": "Last meal",
+  "platform": "Amazon Prime",
+  "alertDate": "2026-11-20"
+ },
+ {
+  "title": "Teen Tigada, Season 1",
+  "platform": "Zee5",
+  "alertDate": "2026-11-21"
+ },
+ {
+  "title": "Insidious: Out of the Further",
+  "platform": "Netflix",
+  "alertDate": "2026-11-22"
+ }
 ]
