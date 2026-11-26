@@ -4900,9 +4900,6 @@
   "runtime": "149 min",
   "videos": []
  },
- "movie|dil ki bewafaiyaan|": {
-  "imdbId": null
- },
  "movie|aamir|": {
   "imdbId": "tt1241195",
   "poster": "https://images.metahub.space/poster/small/tt1241195/img",
@@ -4915,5 +4912,19 @@
   ],
   "runtime": "99 min",
   "videos": []
+ },
+ "series|dil ki bewafaiyaan|": {
+  "imdbId": "tt50369328",
+  "poster": "https://images.metahub.space/poster/small/tt50369328/img",
+  "background": null,
+  "imdbRating": null,
+  "genres": null,
+  "runtime": null,
+  "videos": [
+   {
+    "id": "tt50369328:1:1",
+    "season": 1
+   }
+  ]
  }
 }
