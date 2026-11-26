@@ -64,6 +64,7 @@ const OVERRIDES = {
   "movie|sardaarji 3|": "tt33022037", // Cinemeta search lists it as "Sardaar Ji 3"
   "movie|the vvaan: force of the forest|2026": "tt34498564", // Cinemeta/IMDb spell it "Forrest" (double r)
   "movie|the vvaan|2026": "tt34498564", // short-name entry in other-baseline.json, same film
+  "movie|aadarsha kutumbam house no: 47 - ak47|": "tt30768979", // Cinemeta spells it "AK 47" (with a space)
 };
 
 async function enrichOne(t) {

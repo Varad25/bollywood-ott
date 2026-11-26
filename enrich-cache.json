@@ -4888,6 +4888,16 @@
   "videos": []
  },
  "movie|aadarsha kutumbam house no: 47 - ak47|": {
-  "imdbId": null
+  "imdbId": "tt30768979",
+  "poster": "https://live.metahub.space/poster/small/tt30768979/img",
+  "background": "https://live.metahub.space/background/medium/tt30768979/img",
+  "imdbRating": "5.9",
+  "genres": [
+   "Family",
+   "Comedy",
+   "Action"
+  ],
+  "runtime": "149 min",
+  "videos": []
  }
 }
