@@ -4926,5 +4926,18 @@
     "season": 1
    }
   ]
+ },
+ "movie|drishyam: the conclusion|": {
+  "imdbId": "tt27050858",
+  "poster": "https://images.metahub.space/poster/small/tt27050858/img",
+  "background": "https://images.metahub.space/background/medium/tt27050858/img",
+  "imdbRating": null,
+  "genres": [
+   "Crime",
+   "Drama",
+   "Mystery"
+  ],
+  "runtime": "148 min",
+  "videos": []
  }
 }
